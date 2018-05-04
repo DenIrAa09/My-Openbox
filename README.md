@@ -1,1 +1,1 @@
-# openbox-wm
+# openbox
