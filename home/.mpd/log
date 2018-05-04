@@ -1,0 +1,3075 @@
+Apr 07 10:42 : exception: Failed to open /home/jurig/.mpd/state: No such file or directory
+Apr 07 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 10:42 : client: [0] opened from 127.0.0.1:50670
+Apr 07 10:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 07 10:42 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 07 10:42 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 07 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 10:43 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 07 10:43 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 07 10:43 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 07 10:43 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 07 10:43 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 07 10:43 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 07 10:45 : client: [0] closed
+Apr 07 10:45 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 13:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 13:23 : config: option 'mixer_control' on line 287 was not recognized
+Apr 07 13:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 13:25 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 13:29 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 13:33 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 13:48 : client: [0] opened from 127.0.0.1:47178
+Apr 07 13:50 : client: [1] opened from 127.0.0.1:47182
+Apr 07 13:53 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 13:57 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 14:00 : client: [1] closed
+Apr 07 14:00 : client: [2] opened from 127.0.0.1:47196
+Apr 07 14:02 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 14:03 : client: [2] closed
+Apr 07 14:03 : client: [3] opened from 127.0.0.1:47200
+Apr 07 14:04 : client: [3] closed
+Apr 07 14:04 : client: [0] closed
+Apr 07 14:04 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 07 14:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 14:05 : config: option 'mixer_control' on line 287 was not recognized
+Apr 07 14:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 14:05 : client: [0] opened from 127.0.0.1:47204
+Apr 07 14:05 : client: [1] opened from 127.0.0.1:47208
+Apr 07 14:07 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 07 14:08 : client: [0] closed
+Apr 07 14:08 : client: [2] opened from 127.0.0.1:47212
+Apr 07 14:10 : client: [2] closed
+Apr 07 14:13 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 14:13 : client: [1] closed
+Apr 07 14:13 : player: played "videoplayback.mp4"
+Apr 07 14:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 14:34 : config: option 'mixer_control' on line 287 was not recognized
+Apr 07 14:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 14:35 : client: [0] opened from 127.0.0.1:44618
+Apr 07 14:55 : client: [0] closed
+Apr 07 15:00 : client: [1] opened from 127.0.0.1:45972
+Apr 07 15:09 : client: [1] closed
+Apr 07 15:09 : client: [2] opened from 127.0.0.1:46116
+Apr 07 15:09 : client: [3] opened from 127.0.0.1:46120
+Apr 07 15:16 : player: played "Wish You Were Here - Avril Lavigne - Lyrics - Terjemahan Indonesia.mp4"
+Apr 07 15:19 : client: [3] closed
+Apr 07 15:19 : client: [2] closed
+Apr 07 15:19 : client: [4] opened from 127.0.0.1:46144
+Apr 07 15:20 : player: played "You're Still The One - Shania Twain - Lyrics Animation (Terjemahan Indonesia).mp4"
+Apr 07 15:25 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 15:29 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 15:33 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 15:39 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 07 15:44 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 07 16:05 : client: [4] closed
+Apr 07 16:05 : player: played "videoplayback.mp4"
+Apr 08 02:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 02:16 : config: option 'mixer_control' on line 287 was not recognized
+Apr 08 02:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 02:16 : client: [0] opened from 127.0.0.1:49272
+Apr 08 02:18 : client: [0] closed
+Apr 08 02:19 : client: [1] opened from 127.0.0.1:49276
+Apr 08 02:42 : client: [1] closed
+Apr 08 02:50 : player: played "videoplayback.mp4"
+Apr 08 02:54 : player: played "Wish You Were Here - Avril Lavigne - Lyrics - Terjemahan Indonesia.mp4"
+Apr 08 02:58 : player: played "You're Still The One - Shania Twain - Lyrics Animation (Terjemahan Indonesia).mp4"
+Apr 08 14:11 : config: option 'mixer_control' on line 287 was not recognized
+Apr 08 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 14:11 : client: [0] opened from 127.0.0.1:48504
+Apr 08 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 14:11 : client: [1] opened from 127.0.0.1:48508
+Apr 08 14:15 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 14:19 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 14:22 : client: [0] closed
+Apr 08 14:22 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 14:42 : config: option 'mixer_control' on line 287 was not recognized
+Apr 08 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 14:42 : client: [0] opened from 127.0.0.1:49362
+Apr 08 14:44 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 14:50 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 08 14:55 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 14:55 : client: [1] opened from 127.0.0.1:49470
+Apr 08 15:24 : client: [0] closed
+Apr 08 15:25 : client: [1] closed
+Apr 08 15:26 : client: [2] opened from 127.0.0.1:49716
+Apr 08 15:34 : client: [2] closed
+Apr 08 15:34 : client: [3] opened from 127.0.0.1:49730
+Apr 08 15:34 : client: [4] opened from 127.0.0.1:49734
+Apr 08 15:38 : client: [4] closed
+Apr 08 15:38 : client: [3] closed
+Apr 08 15:38 : client: [5] opened from 127.0.0.1:49738
+Apr 08 15:40 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 15:43 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 15:44 : client: [6] opened from 127.0.0.1:49756
+Apr 08 15:48 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 15:54 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 08 15:59 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 16:53 : client: [5] closed
+Apr 08 16:53 : client: [6] closed
+Apr 08 16:53 : player: played "videoplayback.mp4"
+Apr 08 19:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 19:25 : config: option 'mixer_control' on line 287 was not recognized
+Apr 08 19:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 19:25 : client: [0] opened from 127.0.0.1:47654
+Apr 08 19:29 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 19:33 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 19:36 : client: [1] opened from 127.0.0.1:48810
+Apr 08 19:38 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 08 19:41 : client: [1] closed
+Apr 08 19:41 : client: [0] closed
+Apr 08 19:41 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 09 00:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 00:05 : config: option 'mixer_control' on line 287 was not recognized
+Apr 09 00:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 00:05 : client: [0] opened from 127.0.0.1:51726
+Apr 09 00:09 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 00:13 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 00:17 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 00:23 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 09 00:29 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 00:35 : client: [0] closed
+Apr 09 00:35 : player: played "videoplayback.mp4"
+Apr 09 03:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 03:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 09 03:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 03:10 : client: [0] opened from 127.0.0.1:36814
+Apr 09 03:16 : client: [0] closed
+Apr 09 03:17 : client: [1] opened from 127.0.0.1:36926
+Apr 09 03:18 : client: [1] closed
+Apr 09 03:18 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 10:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 10:45 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 09 10:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 10:45 : client: [0] opened from 127.0.0.1:39522
+Apr 09 10:49 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 10:52 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 10:57 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 10:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 09 11:01 : client: [0] closed
+Apr 09 11:01 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 09 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 09 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:47 : client: [0] opened from 127.0.0.1:42518
+Apr 09 14:48 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 09 14:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 09 14:49 : client: [0] closed
+Apr 09 14:49 : player: played "videoplayback.mp4"
+Apr 09 14:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 09 14:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:49 : client: [0] opened from 127.0.0.1:42536
+Apr 09 14:50 : client: [0] closed
+Apr 09 14:50 : player: played "videoplayback.mp4"
+Apr 09 14:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:51 : client: [0] opened from 127.0.0.1:42540
+Apr 09 15:00 : client: [0] closed
+Apr 09 15:00 : client: [1] opened from 127.0.0.1:42630
+Apr 09 15:00 : client: [2] opened from 127.0.0.1:42634
+Apr 09 15:44 : player: played "videoplayback.mp4"
+Apr 09 15:48 : player: played "Wish You Were Here - Avril Lavigne - Lyrics - Terjemahan Indonesia.mp4"
+Apr 09 15:51 : player: played "You're Still The One - Shania Twain - Lyrics Animation (Terjemahan Indonesia).mp4"
+Apr 09 15:56 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 16:00 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 16:05 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 16:10 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 09 16:16 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 09 17:11 : player: played "videoplayback.mp4"
+Apr 09 17:14 : player: played "Wish You Were Here - Avril Lavigne - Lyrics - Terjemahan Indonesia.mp4"
+Apr 09 17:18 : player: played "You're Still The One - Shania Twain - Lyrics Animation (Terjemahan Indonesia).mp4"
+Apr 09 17:22 : client: [1] closed
+Apr 10 14:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 14:10 : client: [0] opened from 127.0.0.1:34484
+Apr 10 14:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 14:11 : client: [1] opened from 127.0.0.1:34488
+Apr 10 14:15 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 14:18 : client: [0] closed
+Apr 10 14:18 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 14:23 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 14:29 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 10 14:34 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 15:29 : player: played "videoplayback.mp4"
+Apr 10 15:33 : player: played "Wish You Were Here - Avril Lavigne - Lyrics - Terjemahan Indonesia.mp4"
+Apr 10 15:37 : player: played "You're Still The One - Shania Twain - Lyrics Animation (Terjemahan Indonesia).mp4"
+Apr 10 15:58 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 16:02 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 16:06 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 16:12 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 10 16:12 : client: [1] closed
+Apr 10 16:13 : client: [2] opened from 127.0.0.1:35356
+Apr 10 16:17 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 10 16:35 : client: [2] closed
+Apr 10 16:36 : player: played "videoplayback.mp4"
+Apr 11 00:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 00:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 00:33 : client: [0] opened from 127.0.0.1:46282
+Apr 11 00:34 : client: [1] opened from 127.0.0.1:46288
+Apr 11 00:35 : client: [0] closed
+Apr 11 00:36 : client: [1] closed
+Apr 11 00:38 : client: [2] opened from 127.0.0.1:46300
+Apr 11 00:38 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 00:38 : client: [3] opened from 127.0.0.1:46304
+Apr 11 00:39 : client: [3] closed
+Apr 11 00:41 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 00:42 : client: [4] opened from 127.0.0.1:46350
+Apr 11 00:42 : client: [4] closed
+Apr 11 00:44 : client: [2] closed
+Apr 11 00:44 : client: [5] opened from 127.0.0.1:46354
+Apr 11 00:46 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 00:48 : client: [5] closed
+Apr 11 00:48 : client: [6] opened from 127.0.0.1:46394
+Apr 11 00:51 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 11 00:53 : client: [7] opened from 127.0.0.1:46404
+Apr 11 00:57 : player: played "Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 00:59 : client: [8] opened from 127.0.0.1:46408
+Apr 11 00:59 : client: [6] closed
+Apr 11 00:59 : client: [7] closed
+Apr 11 00:59 : client: [9] opened from 127.0.0.1:46412
+Apr 11 00:59 : client: [9] closed
+Apr 11 01:02 : client: [8] closed
+Apr 11 01:02 : client: [10] opened from 127.0.0.1:46416
+Apr 11 01:02 : client: [10] closed
+Apr 11 01:02 : player: played "videoplayback.mp4"
+Apr 11 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 11 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:03 : exception: "My ALSA Device" [alsa] failed to play: snd_pcm_writei() failed: Broken pipe
+Apr 11 03:03 : player: played "videoplayback.mp4"
+Apr 11 03:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 11 03:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:04 : client: [0] opened from 127.0.0.1:55762
+Apr 11 03:05 : client: [0] closed
+Apr 11 03:05 : player: played "videoplayback.mp4"
+Apr 11 03:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:25 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 11 03:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:25 : client: [0] opened from 127.0.0.1:56322
+Apr 11 03:26 : client: [1] opened from 127.0.0.1:56326
+Apr 11 03:27 : exception: "My ALSA Device" [alsa] failed to play: snd_pcm_writei() failed: Broken pipe
+Apr 11 03:27 : player: played "videoplayback.mp4"
+Apr 11 03:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 11 03:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 03:52 : client: [0] opened from 127.0.0.1:53858
+Apr 11 03:53 : client: [0] closed
+Apr 11 03:53 : player: played "videoplayback.mp4"
+Apr 11 18:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 18:08 : config: option 'mixer_control' on line 287 was not recognized
+Apr 11 18:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 18:08 : client: [0] opened from 127.0.0.1:39966
+Apr 11 18:48 : exception: Failed to decode /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:48 : exception: nested: Failed to open /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:48 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:48 : exception: Failed to decode /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:48 : exception: nested: Failed to open /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:48 : exception: Failed to decode /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:48 : exception: nested: Failed to open /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:49 : exception: Failed to decode /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:49 : exception: nested: Failed to open /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:49 : exception: Failed to decode /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:49 : exception: nested: Failed to open /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:49 : exception: Failed to decode /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:49 : exception: nested: Failed to open /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : exception: Failed to decode /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:49 : exception: nested: Failed to open /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : player: played "Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:49 : exception: Failed to decode /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:49 : exception: nested: Failed to open /home/jurig/Music/Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : exception: Failed to decode /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4
+Apr 11 18:49 : exception: nested: Failed to open /home/jurig/Music/Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4: No such file or directory
+Apr 11 18:49 : player: played "Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:50 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 18:53 : client: [1] opened from 127.0.0.1:40310
+Apr 11 18:53 : client: [0] closed
+Apr 11 18:53 : client: [2] opened from 127.0.0.1:40314
+Apr 11 18:53 : client: [1] closed
+Apr 11 18:53 : client: [3] opened from 127.0.0.1:40318
+Apr 11 18:53 : client: [3] closed
+Apr 11 19:00 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 11 19:05 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 11 19:11 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 11 19:17 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 11 19:22 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 11 19:29 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 11 19:30 : client: [4] opened from 127.0.0.1:40382
+Apr 11 19:32 : client: [4] closed
+Apr 11 19:32 : client: [5] opened from 127.0.0.1:40394
+Apr 11 19:32 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 11 19:33 : client: [5] closed
+Apr 11 19:33 : client: [6] opened from 127.0.0.1:40398
+Apr 11 19:33 : client: [7] opened from 127.0.0.1:40402
+Apr 11 19:33 : client: [7] closed
+Apr 11 19:34 : client: [8] opened from 127.0.0.1:40406
+Apr 11 19:34 : client: [2] closed
+Apr 11 19:34 : client: [6] closed
+Apr 11 19:34 : client: [9] opened from 127.0.0.1:40410
+Apr 11 19:39 : player: played "IWAN FALS-Badut.mp3"
+Apr 11 19:43 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 11 19:48 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 11 19:52 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 11 19:57 : client: [8] closed
+Apr 11 19:58 : player: played "iwan fals- Kemesraan.mp3"
+Apr 11 20:02 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 11 20:06 : player: played "IWAN FALS - 22 Januari.mp3"
+Apr 11 20:11 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 11 20:14 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 11 20:18 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 11 20:23 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 11 21:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 21:55 : config: option 'mixer_control' on line 287 was not recognized
+Apr 11 21:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 21:55 : client: [0] opened from 127.0.0.1:60972
+Apr 11 21:55 : client: [1] opened from 127.0.0.1:60976
+Apr 11 21:58 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 11 22:00 : client: [0] closed
+Apr 11 22:00 : client: [1] closed
+Apr 11 22:00 : player: played "IWAN FALS-Entah.mp3"
+Apr 11 22:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 22:00 : config: option 'mixer_control' on line 287 was not recognized
+Apr 11 22:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 22:01 : client: [0] opened from 127.0.0.1:60980
+Apr 11 22:04 : player: played "IWAN FALS-Entah.mp3"
+Apr 11 22:08 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 11 22:12 : player: played "IWAN FALS-Galang Rambu Anarki.mp3"
+Apr 11 22:17 : player: played "IWAN FALS-Kemesraan.mp3"
+Apr 11 22:21 : player: played "IWAN FALS-Kereta Tiba Pukul Berapa.mp3"
+Apr 11 22:24 : player: played "IWAN FALS-Kisah Sepeda Motorku.mp3"
+Apr 11 22:28 : player: played "IWAN FALS-Kumenanti Seorang Kekasih.mp3"
+Apr 11 22:33 : player: played "IWAN FALS-Kupu-Kupu Hitam Putih.mp3"
+Apr 11 22:37 : player: played "IWAN FALS-Maaf Cintaku.mp3"
+Apr 11 22:42 : player: played "IWAN FALS-Masih Bisa Cinta.MP3"
+Apr 11 22:46 : player: played "IWAN FALS-Mata Indah Bola Pingpong.mp3"
+Apr 11 22:52 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 11 22:57 : player: played "IWAN FALS-Mereka Ada Dijalan.mp3"
+Apr 11 23:00 : player: played "IWAN FALS-Mimpi Yang Terbeli.mp3"
+Apr 11 23:06 : player: played "IWAN FALS-Orang Pinggiran.mp3"
+Apr 11 23:11 : player: played "IWAN FALS-P H K.mp3"
+Apr 11 23:16 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 11 23:20 : client: [0] closed
+Apr 11 23:20 : client: [1] opened from 127.0.0.1:32972
+Apr 11 23:21 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 11 23:26 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 11 23:32 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 11 23:38 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 11 23:43 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 11 23:49 : client: [1] closed
+Apr 11 23:50 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 11 23:53 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 12 00:00 : player: played "IWAN FALS-Badut.mp3"
+Apr 12 00:04 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 12 00:06 : exception: "Pulse Output" [pulse] failed to play: disconnected
+Apr 12 00:06 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 12 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 00:09 : config: option 'mixer_control' on line 287 was not recognized
+Apr 12 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 00:09 : client: [0] opened from 127.0.0.1:54584
+Apr 12 00:10 : client: [0] closed
+Apr 12 00:10 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 12 00:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 00:10 : config: option 'mixer_control' on line 287 was not recognized
+Apr 12 00:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 00:10 : client: [0] opened from 127.0.0.1:54588
+Apr 12 00:15 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 12 00:20 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 12 00:24 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 12 00:26 : client: [1] opened from 127.0.0.1:54592
+Apr 12 00:31 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 12 00:37 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 12 00:39 : client: [0] closed
+Apr 12 00:41 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 12 00:49 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 12 00:49 : client: [1] closed
+Apr 12 00:49 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 12 01:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 01:37 : config: option 'mixer_control' on line 287 was not recognized
+Apr 12 01:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 01:37 : client: [0] opened from 127.0.0.1:55248
+Apr 12 01:38 : client: [1] opened from 127.0.0.1:55252
+Apr 12 01:40 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 12 01:41 : client: [1] closed
+Apr 12 01:41 : client: [0] closed
+Apr 12 01:41 : player: played "IWAN FALS-Badut.mp3"
+Apr 12 14:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 14:07 : config: option 'mixer_control' on line 287 was not recognized
+Apr 12 14:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 14:07 : client: [0] opened from 127.0.0.1:54916
+Apr 12 14:07 : client: [0] closed
+Apr 12 14:14 : client: [1] opened from 127.0.0.1:54920
+Apr 12 14:14 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 12 14:14 : client: [2] opened from 127.0.0.1:54924
+Apr 12 14:25 : client: [2] closed
+Apr 12 14:25 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 12 14:30 : player: played "IWAN FALS-Mereka Ada Dijalan.mp3"
+Apr 12 14:33 : player: played "IWAN FALS-Mimpi Yang Terbeli.mp3"
+Apr 12 14:39 : player: played "IWAN FALS-Orang Pinggiran.mp3"
+Apr 12 14:44 : player: played "IWAN FALS-P H K.mp3"
+Apr 12 14:53 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 12 14:57 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 12 15:02 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 12 15:08 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 12 15:14 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 12 15:19 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 12 15:26 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 12 15:30 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 12 15:36 : player: played "IWAN FALS-Badut.mp3"
+Apr 12 15:40 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 12 15:45 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 12 15:47 : client: [1] closed
+Apr 12 15:48 : client: [3] opened from 127.0.0.1:55238
+Apr 12 15:50 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 12 15:55 : player: played "iwan fals- Kemesraan.mp3"
+Apr 12 15:59 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 12 16:03 : player: played "IWAN FALS - 22 Januari.mp3"
+Apr 12 16:08 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 12 16:12 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 12 16:16 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 12 16:20 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 12 16:23 : client: [3] closed
+Apr 12 16:23 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 12 16:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 16:38 : config: option 'mixer_control' on line 287 was not recognized
+Apr 12 16:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 16:38 : client: [0] opened from 127.0.0.1:56462
+Apr 12 16:38 : client: [1] opened from 127.0.0.1:56466
+Apr 12 16:42 : client: [0] closed
+Apr 12 16:44 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 12 16:48 : client: [1] closed
+Apr 12 16:48 : client: [2] opened from 127.0.0.1:56620
+Apr 12 16:54 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 12 16:58 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 12 17:03 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 12 17:09 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 12 17:15 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 12 17:20 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 12 17:27 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 12 17:31 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 12 17:37 : player: played "IWAN FALS-Badut.mp3"
+Apr 12 17:41 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 12 17:46 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 12 17:49 : client: [2] closed
+Apr 12 17:49 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 13 00:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 00:38 : config: option 'mixer_control' on line 287 was not recognized
+Apr 13 00:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 00:39 : client: [0] opened from 127.0.0.1:60058
+Apr 13 00:40 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 13 00:43 : client: [0] closed
+Apr 13 00:43 : client: [1] opened from 127.0.0.1:60062
+Apr 13 00:44 : client: [1] closed
+Apr 13 00:44 : client: [2] opened from 127.0.0.1:60066
+Apr 13 00:45 : client: [2] closed
+Apr 13 00:45 : client: [3] opened from 127.0.0.1:60070
+Apr 13 00:45 : player: played "iwan fals- Kemesraan.mp3"
+Apr 13 00:45 : client: [3] closed
+Apr 13 00:45 : client: [4] opened from 127.0.0.1:60074
+Apr 13 00:47 : client: [4] closed
+Apr 13 00:47 : client: [5] opened from 127.0.0.1:60078
+Apr 13 00:47 : client: [5] closed
+Apr 13 00:47 : client: [6] opened from 127.0.0.1:60082
+Apr 13 00:48 : client: [6] closed
+Apr 13 00:48 : client: [7] opened from 127.0.0.1:60086
+Apr 13 00:49 : client: [7] closed
+Apr 13 00:49 : client: [8] opened from 127.0.0.1:60090
+Apr 13 00:49 : client: [8] closed
+Apr 13 00:49 : client: [9] opened from 127.0.0.1:60094
+Apr 13 00:50 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 13 00:53 : client: [9] closed
+Apr 13 00:53 : client: [10] opened from 127.0.0.1:60222
+Apr 13 00:54 : player: played "IWAN FALS - 22 Januari.mp3"
+Apr 13 00:55 : client: [10] closed
+Apr 13 00:55 : client: [11] opened from 127.0.0.1:60226
+Apr 13 00:58 : client: [11] closed
+Apr 13 00:58 : client: [12] opened from 127.0.0.1:60240
+Apr 13 00:58 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 13 01:02 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 13 01:06 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 13 01:10 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 13 01:14 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 13 01:18 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 13 01:22 : player: played "IWAN FALS-Entah.mp3"
+Apr 13 01:26 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 13 01:30 : player: played "IWAN FALS-Galang Rambu Anarki.mp3"
+Apr 13 01:35 : player: played "IWAN FALS-Kemesraan.mp3"
+Apr 13 01:40 : player: played "IWAN FALS-Kereta Tiba Pukul Berapa.mp3"
+Apr 13 01:43 : player: played "IWAN FALS-Kisah Sepeda Motorku.mp3"
+Apr 13 01:46 : player: played "IWAN FALS-Kumenanti Seorang Kekasih.mp3"
+Apr 13 01:51 : player: played "IWAN FALS-Kupu-Kupu Hitam Putih.mp3"
+Apr 13 01:56 : player: played "IWAN FALS-Maaf Cintaku.mp3"
+Apr 13 01:58 : client: [12] closed
+Apr 13 02:00 : player: played "IWAN FALS-Masih Bisa Cinta.MP3"
+Apr 13 02:05 : player: played "IWAN FALS-Mata Indah Bola Pingpong.mp3"
+Apr 13 02:07 : exception: "Pulse Output" [pulse] failed to play: disconnected
+Apr 13 02:07 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 13 14:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 14:16 : config: option 'mixer_control' on line 287 was not recognized
+Apr 13 14:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 14:16 : client: [0] opened from 127.0.0.1:38856
+Apr 13 14:16 : update: removing Avril Lavigne - Innocence - Lyrics (Terjemahan Indonesia).mp4
+Apr 13 14:16 : update: removing Because of You - Kelly Clarkson - Lyrics (Terjemahan Indonesia).mp4
+Apr 13 14:16 : update: added /Kacapi suling sunda.mp3
+Apr 13 14:16 : update: added /40 Lagu Barat  2018 Hit Cover.mp3
+Apr 13 14:16 : update: added /40 LAGU BARAT 2018.mp3
+Apr 13 14:16 : update: added /Avril Lavigne - Innocence.mp4
+Apr 13 14:16 : update: added /Because of You - Kelly Clarkson.mp4
+Apr 13 14:57 : client: [0] closed
+Apr 13 14:57 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 13 15:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 15:29 : config: option 'mixer_control' on line 287 was not recognized
+Apr 13 15:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 15:29 : client: [0] opened from 127.0.0.1:40146
+Apr 13 16:05 : client: [0] closed
+Apr 13 16:06 : client: [1] opened from 127.0.0.1:41464
+Apr 13 16:24 : client: [1] closed
+Apr 13 16:24 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 14 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:57 : config: option 'mixer_control' on line 287 was not recognized
+Apr 14 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:57 : client: [0] opened from 127.0.0.1:43192
+Apr 14 18:57 : client: [0] closed
+Apr 14 18:58 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 14 18:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:58 : config: option 'mixer_control' on line 287 was not recognized
+Apr 14 18:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:58 : client: [0] opened from 127.0.0.1:43196
+Apr 14 18:58 : client: [1] opened from 127.0.0.1:43200
+Apr 14 19:04 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 14 19:09 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 14 19:13 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 14 19:19 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 14 19:25 : client: [1] closed
+Apr 14 19:26 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 14 19:30 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 14 19:37 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 14 19:41 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 14 19:47 : player: played "IWAN FALS-Badut.mp3"
+Apr 14 19:51 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 14 19:56 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 14 20:00 : client: [0] closed
+Apr 14 20:00 : client: [2] opened from 127.0.0.1:43334
+Apr 14 20:01 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 14 20:04 : client: [2] closed
+Apr 14 20:06 : player: played "iwan fals- Kemesraan.mp3"
+Apr 14 20:07 : client: [3] opened from 127.0.0.1:43734
+Apr 14 20:09 : client: [3] closed
+Apr 14 20:09 : client: [4] opened from 127.0.0.1:43736
+Apr 14 20:11 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 14 20:14 : player: played "IWAN FALS - 22 Januari.mp3"
+Apr 14 20:18 : client: [4] closed
+Apr 14 20:18 : client: [5] opened from 127.0.0.1:43738
+Apr 14 20:19 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 14 20:23 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 14 20:27 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 14 20:31 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 14 20:35 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 14 20:36 : client: [5] closed
+Apr 14 20:36 : client: [6] opened from 127.0.0.1:43752
+Apr 14 20:38 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 14 20:41 : client: [6] closed
+Apr 14 20:42 : client: [7] opened from 127.0.0.1:43760
+Apr 14 20:43 : player: played "IWAN FALS-Entah.mp3"
+Apr 14 20:47 : client: [7] closed
+Apr 14 20:47 : client: [8] opened from 127.0.0.1:43770
+Apr 14 20:47 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 14 20:50 : client: [8] closed
+Apr 14 20:50 : client: [9] opened from 127.0.0.1:43772
+Apr 14 20:51 : player: played "IWAN FALS-Galang Rambu Anarki.mp3"
+Apr 14 20:52 : client: [9] closed
+Apr 14 20:52 : client: [10] opened from 127.0.0.1:43774
+Apr 14 20:53 : client: [10] closed
+Apr 14 20:53 : client: [11] opened from 127.0.0.1:43776
+Apr 14 20:54 : client: [12] opened from 127.0.0.1:43778
+Apr 14 20:56 : player: played "IWAN FALS-Kemesraan.mp3"
+Apr 14 21:00 : player: played "IWAN FALS-Kereta Tiba Pukul Berapa.mp3"
+Apr 14 21:06 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 14 21:08 : client: [12] closed
+Apr 14 21:11 : player: played "IWAN FALS-Entah.mp3"
+Apr 14 21:15 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 14 21:19 : player: played "IWAN FALS-Galang Rambu Anarki.mp3"
+Apr 14 21:24 : player: played "IWAN FALS-Kemesraan.mp3"
+Apr 14 21:28 : player: played "IWAN FALS-Kereta Tiba Pukul Berapa.mp3"
+Apr 14 21:31 : player: played "IWAN FALS-Kisah Sepeda Motorku.mp3"
+Apr 14 21:35 : player: played "IWAN FALS-Kumenanti Seorang Kekasih.mp3"
+Apr 14 21:40 : player: played "IWAN FALS-Kupu-Kupu Hitam Putih.mp3"
+Apr 14 21:45 : player: played "IWAN FALS-Maaf Cintaku.mp3"
+Apr 14 21:48 : client: [13] opened from 127.0.0.1:44108
+Apr 14 21:48 : client: [13] closed
+Apr 14 21:49 : player: played "IWAN FALS-Masih Bisa Cinta.MP3"
+Apr 14 21:54 : player: played "IWAN FALS-Mata Indah Bola Pingpong.mp3"
+Apr 14 21:59 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 14 22:04 : player: played "IWAN FALS-Mereka Ada Dijalan.mp3"
+Apr 14 22:08 : player: played "IWAN FALS-Mimpi Yang Terbeli.mp3"
+Apr 14 22:13 : player: played "IWAN FALS-Orang Pinggiran.mp3"
+Apr 14 22:18 : player: played "IWAN FALS-P H K.mp3"
+Apr 14 22:25 : client: [14] opened from 127.0.0.1:44860
+Apr 14 22:25 : client: [14] closed
+Apr 14 22:45 : client: [15] opened from 127.0.0.1:44942
+Apr 14 22:46 : client: [15] closed
+Apr 14 22:46 : client: [16] opened from 127.0.0.1:44946
+Apr 14 22:47 : client: [16] closed
+Apr 14 23:02 : client: [17] opened from 127.0.0.1:45026
+Apr 14 23:04 : client: [18] opened from 127.0.0.1:45028
+Apr 14 23:04 : client: [17] closed
+Apr 14 23:04 : client: [11] closed
+Apr 14 23:04 : client: [19] opened from 127.0.0.1:45030
+Apr 14 23:08 : client: [18] closed
+Apr 14 23:17 : client: [20] opened from 127.0.0.1:45084
+Apr 14 23:26 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 14 23:26 : client: [20] closed
+Apr 14 23:30 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 14 23:31 : client: [19] closed
+Apr 14 23:31 : client: [21] opened from 127.0.0.1:45390
+Apr 14 23:35 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 14 23:40 : client: [21] closed
+Apr 14 23:40 : client: [22] opened from 127.0.0.1:45446
+Apr 14 23:41 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 14 23:47 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 14 23:52 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 14 23:59 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 15 00:02 : client: [23] opened from 127.0.0.1:46354
+Apr 15 00:02 : client: [23] closed
+Apr 15 00:02 : client: [24] opened from 127.0.0.1:46358
+Apr 15 00:02 : client: [24] closed
+Apr 15 00:03 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 15 00:03 : client: [25] opened from 127.0.0.1:46362
+Apr 15 00:03 : client: [25] closed
+Apr 15 00:03 : client: [26] opened from 127.0.0.1:46366
+Apr 15 00:03 : client: [26] closed
+Apr 15 00:05 : client: [27] opened from 127.0.0.1:46372
+Apr 15 00:05 : client: [27] closed
+Apr 15 00:05 : client: [28] opened from 127.0.0.1:46376
+Apr 15 00:05 : client: [28] closed
+Apr 15 00:09 : player: played "IWAN FALS-Badut.mp3"
+Apr 15 00:09 : client: [29] opened from 127.0.0.1:46388
+Apr 15 00:09 : client: [29] closed
+Apr 15 00:13 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 15 00:13 : client: [30] opened from 127.0.0.1:46402
+Apr 15 00:13 : client: [30] closed
+Apr 15 00:18 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 15 00:18 : client: [31] opened from 127.0.0.1:46508
+Apr 15 00:18 : client: [31] closed
+Apr 15 00:19 : client: [32] opened from 127.0.0.1:46512
+Apr 15 00:19 : client: [32] closed
+Apr 15 00:19 : client: [33] opened from 127.0.0.1:46516
+Apr 15 00:19 : client: [33] closed
+Apr 15 00:19 : client: [34] opened from 127.0.0.1:46520
+Apr 15 00:19 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 15 00:19 : client: [34] closed
+Apr 15 00:19 : client: [35] opened from 127.0.0.1:46524
+Apr 15 00:19 : client: [35] closed
+Apr 15 00:19 : client: [36] opened from 127.0.0.1:46528
+Apr 15 00:19 : client: [36] closed
+Apr 15 00:19 : client: [37] opened from 127.0.0.1:46532
+Apr 15 00:19 : client: [37] closed
+Apr 15 00:21 : client: [38] opened from 127.0.0.1:46546
+Apr 15 00:21 : client: [38] closed
+Apr 15 00:24 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 15 00:24 : client: [39] opened from 127.0.0.1:46686
+Apr 15 00:24 : client: [39] closed
+Apr 15 00:24 : client: [40] opened from 127.0.0.1:46690
+Apr 15 00:24 : client: [40] closed
+Apr 15 00:24 : client: [41] opened from 127.0.0.1:46694
+Apr 15 00:24 : client: [41] closed
+Apr 15 00:24 : client: [42] opened from 127.0.0.1:46698
+Apr 15 00:24 : client: [42] closed
+Apr 15 00:29 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 15 00:30 : client: [43] opened from 127.0.0.1:46718
+Apr 15 00:30 : client: [43] closed
+Apr 15 00:30 : client: [44] opened from 127.0.0.1:46722
+Apr 15 00:30 : client: [44] closed
+Apr 15 00:35 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 15 00:35 : client: [45] opened from 127.0.0.1:46778
+Apr 15 00:35 : client: [45] closed
+Apr 15 01:14 : client: [46] opened from 127.0.0.1:47344
+Apr 15 01:14 : client: [46] closed
+Apr 15 01:14 : client: [47] opened from 127.0.0.1:47348
+Apr 15 01:14 : client: [47] closed
+Apr 15 01:14 : client: [48] opened from 127.0.0.1:47352
+Apr 15 01:14 : client: [48] closed
+Apr 15 01:14 : client: [49] opened from 127.0.0.1:47356
+Apr 15 01:14 : client: [49] closed
+Apr 15 01:14 : client: [50] opened from 127.0.0.1:47360
+Apr 15 01:14 : client: [50] closed
+Apr 15 01:14 : client: [51] opened from 127.0.0.1:47364
+Apr 15 01:14 : client: [51] closed
+Apr 15 01:14 : client: [52] opened from 127.0.0.1:47368
+Apr 15 01:14 : client: [52] closed
+Apr 15 01:14 : client: [53] opened from 127.0.0.1:47372
+Apr 15 01:14 : client: [53] closed
+Apr 15 01:14 : client: [54] opened from 127.0.0.1:47376
+Apr 15 01:14 : client: [54] closed
+Apr 15 01:14 : client: [55] opened from 127.0.0.1:47380
+Apr 15 01:14 : client: [55] closed
+Apr 15 01:14 : client: [56] opened from 127.0.0.1:47384
+Apr 15 01:14 : client: [56] closed
+Apr 15 01:14 : client: [57] opened from 127.0.0.1:47388
+Apr 15 01:14 : client: [57] closed
+Apr 15 01:14 : client: [58] opened from 127.0.0.1:47392
+Apr 15 01:14 : client: [58] closed
+Apr 15 01:14 : client: [59] opened from 127.0.0.1:47396
+Apr 15 01:14 : client: [59] closed
+Apr 15 01:14 : client: [60] opened from 127.0.0.1:47400
+Apr 15 01:14 : client: [60] closed
+Apr 15 01:14 : client: [61] opened from 127.0.0.1:47404
+Apr 15 01:14 : client: [61] closed
+Apr 15 01:14 : client: [62] opened from 127.0.0.1:47408
+Apr 15 01:14 : client: [62] closed
+Apr 15 01:14 : client: [63] opened from 127.0.0.1:47412
+Apr 15 01:14 : client: [63] closed
+Apr 15 01:14 : client: [64] opened from 127.0.0.1:47416
+Apr 15 01:14 : client: [64] closed
+Apr 15 01:14 : client: [65] opened from 127.0.0.1:47420
+Apr 15 01:14 : client: [65] closed
+Apr 15 01:14 : client: [66] opened from 127.0.0.1:47424
+Apr 15 01:14 : client: [66] closed
+Apr 15 01:14 : client: [67] opened from 127.0.0.1:47428
+Apr 15 01:14 : client: [67] closed
+Apr 15 01:15 : client: [68] opened from 127.0.0.1:47432
+Apr 15 01:15 : client: [68] closed
+Apr 15 01:15 : client: [69] opened from 127.0.0.1:47436
+Apr 15 01:15 : client: [69] closed
+Apr 15 01:15 : client: [70] opened from 127.0.0.1:47440
+Apr 15 01:15 : client: [70] closed
+Apr 15 01:15 : client: [71] opened from 127.0.0.1:47444
+Apr 15 01:15 : client: [71] closed
+Apr 15 01:15 : client: [72] opened from 127.0.0.1:47448
+Apr 15 01:15 : client: [72] closed
+Apr 15 01:15 : client: [73] opened from 127.0.0.1:47452
+Apr 15 01:15 : client: [73] closed
+Apr 15 01:15 : client: [74] opened from 127.0.0.1:47456
+Apr 15 01:15 : client: [74] closed
+Apr 15 01:15 : client: [75] opened from 127.0.0.1:47460
+Apr 15 01:15 : client: [75] closed
+Apr 15 01:15 : client: [76] opened from 127.0.0.1:47464
+Apr 15 01:15 : client: [76] closed
+Apr 15 01:15 : client: [77] opened from 127.0.0.1:47468
+Apr 15 01:15 : client: [77] closed
+Apr 15 01:15 : client: [78] opened from 127.0.0.1:47472
+Apr 15 01:15 : client: [78] closed
+Apr 15 01:15 : client: [79] opened from 127.0.0.1:47476
+Apr 15 01:15 : client: [79] closed
+Apr 15 01:15 : client: [80] opened from 127.0.0.1:47480
+Apr 15 01:15 : client: [80] closed
+Apr 15 01:15 : client: [81] opened from 127.0.0.1:47484
+Apr 15 01:15 : client: [81] closed
+Apr 15 01:15 : client: [82] opened from 127.0.0.1:47488
+Apr 15 01:15 : client: [82] closed
+Apr 15 01:15 : client: [83] opened from 127.0.0.1:47492
+Apr 15 01:15 : client: [83] closed
+Apr 15 01:15 : client: [84] opened from 127.0.0.1:47496
+Apr 15 01:15 : client: [84] closed
+Apr 15 01:15 : client: [85] opened from 127.0.0.1:47500
+Apr 15 01:15 : client: [85] closed
+Apr 15 01:15 : client: [86] opened from 127.0.0.1:47504
+Apr 15 01:15 : client: [86] closed
+Apr 15 01:15 : client: [87] opened from 127.0.0.1:47508
+Apr 15 01:15 : client: [87] closed
+Apr 15 01:15 : client: [88] opened from 127.0.0.1:47512
+Apr 15 01:15 : client: [88] closed
+Apr 15 01:15 : client: [89] opened from 127.0.0.1:47516
+Apr 15 01:15 : client: [89] closed
+Apr 15 01:15 : client: [90] opened from 127.0.0.1:47520
+Apr 15 01:15 : client: [90] closed
+Apr 15 01:16 : client: [91] opened from 127.0.0.1:47524
+Apr 15 01:16 : client: [91] closed
+Apr 15 01:16 : client: [92] opened from 127.0.0.1:47526
+Apr 15 01:16 : client: [93] opened from 127.0.0.1:47530
+Apr 15 01:16 : client: [93] closed
+Apr 15 01:19 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 15 01:19 : client: [94] opened from 127.0.0.1:47534
+Apr 15 01:19 : client: [95] opened from 127.0.0.1:47538
+Apr 15 01:19 : client: [94] closed
+Apr 15 01:19 : client: [95] closed
+Apr 15 01:21 : client: [96] opened from 127.0.0.1:47544
+Apr 15 01:21 : client: [97] opened from 127.0.0.1:47548
+Apr 15 01:21 : client: [96] closed
+Apr 15 01:21 : client: [97] closed
+Apr 15 01:26 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 15 01:26 : client: [98] opened from 127.0.0.1:47574
+Apr 15 01:26 : client: [99] opened from 127.0.0.1:47578
+Apr 15 01:26 : client: [98] closed
+Apr 15 01:26 : client: [99] closed
+Apr 15 01:28 : client: [22] closed
+Apr 15 01:28 : client: [92] closed
+Apr 15 01:28 : client: [100] opened from 127.0.0.1:47634
+Apr 15 01:28 : client: [101] opened from 127.0.0.1:47638
+Apr 15 01:28 : client: [101] closed
+Apr 15 01:30 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 15 01:30 : client: [102] opened from 127.0.0.1:48202
+Apr 15 01:30 : client: [102] closed
+Apr 15 01:34 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 15 01:34 : client: [103] opened from 127.0.0.1:48254
+Apr 15 01:34 : client: [103] closed
+Apr 15 01:38 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 15 01:38 : client: [104] opened from 127.0.0.1:48732
+Apr 15 01:38 : client: [104] closed
+Apr 15 01:41 : client: [100] closed
+Apr 15 01:42 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 15 15:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 15:26 : config: option 'mixer_control' on line 287 was not recognized
+Apr 15 15:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 15:26 : client: [0] opened from 127.0.0.1:33242
+Apr 15 15:26 : client: [1] opened from 127.0.0.1:33246
+Apr 15 15:26 : client: [1] closed
+Apr 15 15:26 : client: [2] opened from 127.0.0.1:33250
+Apr 15 15:26 : client: [2] closed
+Apr 15 15:26 : client: [3] opened from 127.0.0.1:33254
+Apr 15 15:26 : client: [3] closed
+Apr 15 15:26 : client: [4] opened from 127.0.0.1:33258
+Apr 15 15:26 : client: [4] closed
+Apr 15 15:26 : client: [5] opened from 127.0.0.1:33264
+Apr 15 15:26 : client: [5] closed
+Apr 15 15:26 : client: [6] opened from 127.0.0.1:33268
+Apr 15 15:26 : client: [6] closed
+Apr 15 15:26 : client: [7] opened from 127.0.0.1:33272
+Apr 15 15:26 : client: [7] closed
+Apr 15 15:26 : client: [8] opened from 127.0.0.1:33276
+Apr 15 15:26 : client: [8] closed
+Apr 15 15:26 : client: [9] opened from 127.0.0.1:33280
+Apr 15 15:26 : client: [9] closed
+Apr 15 15:26 : client: [10] opened from 127.0.0.1:33284
+Apr 15 15:26 : client: [10] closed
+Apr 15 15:26 : client: [11] opened from 127.0.0.1:33288
+Apr 15 15:26 : client: [11] closed
+Apr 15 15:26 : client: [12] opened from 127.0.0.1:33292
+Apr 15 15:26 : client: [12] closed
+Apr 15 15:26 : client: [13] opened from 127.0.0.1:33296
+Apr 15 15:26 : client: [13] closed
+Apr 15 15:26 : client: [14] opened from 127.0.0.1:33300
+Apr 15 15:26 : client: [14] closed
+Apr 15 15:26 : client: [15] opened from 127.0.0.1:33304
+Apr 15 15:26 : client: [15] closed
+Apr 15 15:26 : client: [16] opened from 127.0.0.1:33308
+Apr 15 15:26 : client: [16] closed
+Apr 15 15:26 : client: [17] opened from 127.0.0.1:33312
+Apr 15 15:26 : client: [17] closed
+Apr 15 15:26 : client: [18] opened from 127.0.0.1:33316
+Apr 15 15:26 : client: [18] closed
+Apr 15 15:26 : client: [19] opened from 127.0.0.1:33320
+Apr 15 15:26 : client: [19] closed
+Apr 15 15:26 : client: [20] opened from 127.0.0.1:33324
+Apr 15 15:26 : client: [20] closed
+Apr 15 15:26 : client: [21] opened from 127.0.0.1:33328
+Apr 15 15:26 : client: [21] closed
+Apr 15 15:26 : client: [22] opened from 127.0.0.1:33332
+Apr 15 15:26 : client: [22] closed
+Apr 15 15:26 : client: [23] opened from 127.0.0.1:33336
+Apr 15 15:26 : client: [23] closed
+Apr 15 15:26 : client: [24] opened from 127.0.0.1:33340
+Apr 15 15:26 : client: [24] closed
+Apr 15 15:26 : client: [25] opened from 127.0.0.1:33344
+Apr 15 15:26 : client: [25] closed
+Apr 15 15:26 : client: [26] opened from 127.0.0.1:33348
+Apr 15 15:26 : client: [26] closed
+Apr 15 15:26 : client: [27] opened from 127.0.0.1:33352
+Apr 15 15:26 : client: [27] closed
+Apr 15 15:26 : client: [28] opened from 127.0.0.1:33356
+Apr 15 15:26 : client: [28] closed
+Apr 15 15:26 : client: [29] opened from 127.0.0.1:33360
+Apr 15 15:26 : client: [29] closed
+Apr 15 15:26 : client: [30] opened from 127.0.0.1:33364
+Apr 15 15:26 : client: [30] closed
+Apr 15 15:26 : client: [31] opened from 127.0.0.1:33368
+Apr 15 15:26 : client: [31] closed
+Apr 15 15:26 : client: [32] opened from 127.0.0.1:33372
+Apr 15 15:26 : client: [32] closed
+Apr 15 15:26 : client: [33] opened from 127.0.0.1:33376
+Apr 15 15:26 : client: [33] closed
+Apr 15 15:26 : client: [34] opened from 127.0.0.1:33380
+Apr 15 15:26 : client: [34] closed
+Apr 15 15:26 : client: [35] opened from 127.0.0.1:33384
+Apr 15 15:26 : client: [35] closed
+Apr 15 15:26 : client: [36] opened from 127.0.0.1:33388
+Apr 15 15:26 : client: [36] closed
+Apr 15 15:26 : client: [37] opened from 127.0.0.1:33392
+Apr 15 15:26 : client: [37] closed
+Apr 15 15:26 : client: [38] opened from 127.0.0.1:33396
+Apr 15 15:26 : client: [38] closed
+Apr 15 15:26 : client: [39] opened from 127.0.0.1:33400
+Apr 15 15:26 : client: [39] closed
+Apr 15 15:26 : client: [40] opened from 127.0.0.1:33404
+Apr 15 15:26 : client: [40] closed
+Apr 15 15:26 : client: [41] opened from 127.0.0.1:33408
+Apr 15 15:26 : client: [41] closed
+Apr 15 15:26 : client: [42] opened from 127.0.0.1:33412
+Apr 15 15:26 : client: [42] closed
+Apr 15 15:26 : client: [43] opened from 127.0.0.1:33416
+Apr 15 15:26 : client: [43] closed
+Apr 15 15:26 : client: [44] opened from 127.0.0.1:33420
+Apr 15 15:26 : client: [44] closed
+Apr 15 15:26 : client: [45] opened from 127.0.0.1:33424
+Apr 15 15:26 : client: [45] closed
+Apr 15 15:26 : client: [46] opened from 127.0.0.1:33428
+Apr 15 15:26 : client: [46] closed
+Apr 15 15:26 : client: [47] opened from 127.0.0.1:33432
+Apr 15 15:26 : client: [47] closed
+Apr 15 15:26 : client: [48] opened from 127.0.0.1:33436
+Apr 15 15:26 : client: [48] closed
+Apr 15 15:27 : client: [49] opened from 127.0.0.1:33440
+Apr 15 15:27 : client: [49] closed
+Apr 15 15:27 : client: [50] opened from 127.0.0.1:33444
+Apr 15 15:27 : client: [50] closed
+Apr 15 15:27 : client: [51] opened from 127.0.0.1:33448
+Apr 15 15:27 : client: [51] closed
+Apr 15 15:27 : client: [52] opened from 127.0.0.1:33452
+Apr 15 15:27 : client: [52] closed
+Apr 15 15:27 : client: [53] opened from 127.0.0.1:33456
+Apr 15 15:27 : client: [53] closed
+Apr 15 15:27 : client: [54] opened from 127.0.0.1:33460
+Apr 15 15:27 : client: [54] closed
+Apr 15 15:27 : client: [55] opened from 127.0.0.1:33464
+Apr 15 15:27 : client: [55] closed
+Apr 15 15:27 : client: [56] opened from 127.0.0.1:33468
+Apr 15 15:27 : client: [56] closed
+Apr 15 15:27 : client: [57] opened from 127.0.0.1:33472
+Apr 15 15:27 : client: [57] closed
+Apr 15 15:27 : client: [58] opened from 127.0.0.1:33476
+Apr 15 15:27 : client: [58] closed
+Apr 15 15:27 : client: [59] opened from 127.0.0.1:33480
+Apr 15 15:27 : client: [59] closed
+Apr 15 15:27 : client: [60] opened from 127.0.0.1:33484
+Apr 15 15:27 : client: [60] closed
+Apr 15 15:27 : client: [61] opened from 127.0.0.1:33488
+Apr 15 15:27 : client: [61] closed
+Apr 15 15:27 : client: [62] opened from 127.0.0.1:33492
+Apr 15 15:27 : client: [62] closed
+Apr 15 15:27 : client: [63] opened from 127.0.0.1:33496
+Apr 15 15:27 : client: [63] closed
+Apr 15 15:27 : client: [64] opened from 127.0.0.1:33500
+Apr 15 15:27 : client: [64] closed
+Apr 15 15:27 : client: [65] opened from 127.0.0.1:33504
+Apr 15 15:27 : client: [65] closed
+Apr 15 15:27 : client: [66] opened from 127.0.0.1:33508
+Apr 15 15:27 : client: [66] closed
+Apr 15 15:27 : client: [67] opened from 127.0.0.1:33512
+Apr 15 15:27 : client: [67] closed
+Apr 15 15:27 : client: [68] opened from 127.0.0.1:33516
+Apr 15 15:27 : client: [68] closed
+Apr 15 15:27 : client: [69] opened from 127.0.0.1:33520
+Apr 15 15:27 : client: [69] closed
+Apr 15 15:27 : client: [70] opened from 127.0.0.1:33524
+Apr 15 15:27 : client: [70] closed
+Apr 15 15:27 : client: [71] opened from 127.0.0.1:33528
+Apr 15 15:27 : client: [71] closed
+Apr 15 15:27 : client: [72] opened from 127.0.0.1:33532
+Apr 15 15:27 : client: [72] closed
+Apr 15 15:27 : client: [73] opened from 127.0.0.1:33536
+Apr 15 15:27 : client: [73] closed
+Apr 15 15:27 : client: [74] opened from 127.0.0.1:33540
+Apr 15 15:27 : client: [74] closed
+Apr 15 15:27 : client: [75] opened from 127.0.0.1:33544
+Apr 15 15:27 : client: [75] closed
+Apr 15 15:27 : client: [76] opened from 127.0.0.1:33548
+Apr 15 15:27 : client: [76] closed
+Apr 15 15:27 : client: [77] opened from 127.0.0.1:33552
+Apr 15 15:27 : client: [77] closed
+Apr 15 15:27 : client: [78] opened from 127.0.0.1:33556
+Apr 15 15:27 : client: [78] closed
+Apr 15 15:27 : client: [79] opened from 127.0.0.1:33560
+Apr 15 15:27 : client: [79] closed
+Apr 15 15:27 : client: [80] opened from 127.0.0.1:33564
+Apr 15 15:27 : client: [80] closed
+Apr 15 15:27 : client: [81] opened from 127.0.0.1:33568
+Apr 15 15:27 : client: [81] closed
+Apr 15 15:27 : client: [82] opened from 127.0.0.1:33572
+Apr 15 15:27 : client: [82] closed
+Apr 15 15:27 : client: [83] opened from 127.0.0.1:33576
+Apr 15 15:27 : client: [83] closed
+Apr 15 15:27 : client: [84] opened from 127.0.0.1:33580
+Apr 15 15:27 : client: [84] closed
+Apr 15 15:27 : client: [85] opened from 127.0.0.1:33584
+Apr 15 15:27 : client: [85] closed
+Apr 15 15:27 : client: [86] opened from 127.0.0.1:33588
+Apr 15 15:27 : client: [86] closed
+Apr 15 15:27 : client: [87] opened from 127.0.0.1:33592
+Apr 15 15:27 : client: [87] closed
+Apr 15 15:27 : client: [88] opened from 127.0.0.1:33596
+Apr 15 15:27 : client: [88] closed
+Apr 15 15:27 : client: [89] opened from 127.0.0.1:33600
+Apr 15 15:27 : client: [89] closed
+Apr 15 15:27 : client: [90] opened from 127.0.0.1:33604
+Apr 15 15:27 : client: [90] closed
+Apr 15 15:27 : client: [91] opened from 127.0.0.1:33608
+Apr 15 15:27 : client: [91] closed
+Apr 15 15:27 : client: [92] opened from 127.0.0.1:33612
+Apr 15 15:27 : client: [92] closed
+Apr 15 15:27 : client: [93] opened from 127.0.0.1:33616
+Apr 15 15:27 : client: [93] closed
+Apr 15 15:27 : client: [94] opened from 127.0.0.1:33620
+Apr 15 15:27 : client: [94] closed
+Apr 15 15:27 : client: [95] opened from 127.0.0.1:33624
+Apr 15 15:27 : client: [95] closed
+Apr 15 15:27 : client: [96] opened from 127.0.0.1:33628
+Apr 15 15:27 : client: [96] closed
+Apr 15 15:27 : client: [97] opened from 127.0.0.1:33632
+Apr 15 15:27 : client: [97] closed
+Apr 15 15:27 : client: [98] opened from 127.0.0.1:33636
+Apr 15 15:27 : client: [98] closed
+Apr 15 15:27 : client: [99] opened from 127.0.0.1:33640
+Apr 15 15:27 : client: [99] closed
+Apr 15 15:27 : client: [100] opened from 127.0.0.1:33644
+Apr 15 15:27 : client: [100] closed
+Apr 15 15:27 : client: [101] opened from 127.0.0.1:33648
+Apr 15 15:27 : client: [101] closed
+Apr 15 15:27 : client: [102] opened from 127.0.0.1:33652
+Apr 15 15:27 : client: [102] closed
+Apr 15 15:27 : client: [103] opened from 127.0.0.1:33656
+Apr 15 15:27 : client: [103] closed
+Apr 15 15:27 : client: [104] opened from 127.0.0.1:33660
+Apr 15 15:27 : client: [104] closed
+Apr 15 15:27 : client: [105] opened from 127.0.0.1:33664
+Apr 15 15:27 : client: [105] closed
+Apr 15 15:27 : client: [106] opened from 127.0.0.1:33668
+Apr 15 15:27 : client: [106] closed
+Apr 15 15:27 : client: [107] opened from 127.0.0.1:33672
+Apr 15 15:27 : client: [107] closed
+Apr 15 15:27 : client: [108] opened from 127.0.0.1:33676
+Apr 15 15:27 : client: [108] closed
+Apr 15 15:27 : client: [109] opened from 127.0.0.1:33680
+Apr 15 15:27 : client: [109] closed
+Apr 15 15:27 : client: [110] opened from 127.0.0.1:33684
+Apr 15 15:27 : client: [110] closed
+Apr 15 15:27 : client: [111] opened from 127.0.0.1:33688
+Apr 15 15:27 : client: [111] closed
+Apr 15 15:27 : client: [112] opened from 127.0.0.1:33692
+Apr 15 15:27 : client: [112] closed
+Apr 15 15:27 : client: [113] opened from 127.0.0.1:33696
+Apr 15 15:27 : client: [113] closed
+Apr 15 15:27 : client: [114] opened from 127.0.0.1:33700
+Apr 15 15:27 : client: [114] closed
+Apr 15 15:27 : client: [115] opened from 127.0.0.1:33704
+Apr 15 15:27 : client: [115] closed
+Apr 15 15:27 : client: [116] opened from 127.0.0.1:33708
+Apr 15 15:27 : client: [116] closed
+Apr 15 15:27 : client: [117] opened from 127.0.0.1:33712
+Apr 15 15:27 : client: [117] closed
+Apr 15 15:27 : client: [118] opened from 127.0.0.1:33716
+Apr 15 15:27 : client: [118] closed
+Apr 15 15:27 : client: [119] opened from 127.0.0.1:33720
+Apr 15 15:27 : client: [119] closed
+Apr 15 15:27 : client: [120] opened from 127.0.0.1:33724
+Apr 15 15:27 : client: [120] closed
+Apr 15 15:27 : client: [121] opened from 127.0.0.1:33728
+Apr 15 15:27 : client: [121] closed
+Apr 15 15:27 : client: [122] opened from 127.0.0.1:33732
+Apr 15 15:27 : client: [122] closed
+Apr 15 15:27 : client: [123] opened from 127.0.0.1:33736
+Apr 15 15:27 : client: [123] closed
+Apr 15 15:27 : client: [124] opened from 127.0.0.1:33740
+Apr 15 15:27 : client: [124] closed
+Apr 15 15:27 : client: [125] opened from 127.0.0.1:33744
+Apr 15 15:27 : client: [125] closed
+Apr 15 15:27 : client: [126] opened from 127.0.0.1:33748
+Apr 15 15:27 : client: [126] closed
+Apr 15 15:27 : client: [127] opened from 127.0.0.1:33752
+Apr 15 15:27 : client: [127] closed
+Apr 15 15:27 : client: [128] opened from 127.0.0.1:33756
+Apr 15 15:27 : client: [128] closed
+Apr 15 15:27 : client: [129] opened from 127.0.0.1:33760
+Apr 15 15:27 : client: [129] closed
+Apr 15 15:27 : client: [130] opened from 127.0.0.1:33764
+Apr 15 15:27 : client: [130] closed
+Apr 15 15:27 : client: [131] opened from 127.0.0.1:33768
+Apr 15 15:27 : client: [131] closed
+Apr 15 15:27 : client: [132] opened from 127.0.0.1:33772
+Apr 15 15:27 : client: [132] closed
+Apr 15 15:27 : client: [133] opened from 127.0.0.1:33776
+Apr 15 15:27 : client: [133] closed
+Apr 15 15:27 : client: [134] opened from 127.0.0.1:33780
+Apr 15 15:27 : client: [134] closed
+Apr 15 15:27 : client: [135] opened from 127.0.0.1:33784
+Apr 15 15:27 : client: [135] closed
+Apr 15 15:27 : client: [136] opened from 127.0.0.1:33788
+Apr 15 15:27 : client: [136] closed
+Apr 15 15:27 : client: [137] opened from 127.0.0.1:33792
+Apr 15 15:27 : client: [137] closed
+Apr 15 15:27 : client: [138] opened from 127.0.0.1:33796
+Apr 15 15:27 : client: [138] closed
+Apr 15 15:27 : client: [139] opened from 127.0.0.1:33800
+Apr 15 15:27 : client: [139] closed
+Apr 15 15:27 : client: [140] opened from 127.0.0.1:33804
+Apr 15 15:27 : client: [140] closed
+Apr 15 15:27 : client: [141] opened from 127.0.0.1:33808
+Apr 15 15:27 : client: [141] closed
+Apr 15 15:27 : client: [142] opened from 127.0.0.1:33812
+Apr 15 15:27 : client: [142] closed
+Apr 15 15:27 : client: [143] opened from 127.0.0.1:33816
+Apr 15 15:27 : client: [143] closed
+Apr 15 15:27 : client: [144] opened from 127.0.0.1:33820
+Apr 15 15:27 : client: [144] closed
+Apr 15 15:27 : client: [145] opened from 127.0.0.1:33824
+Apr 15 15:27 : client: [145] closed
+Apr 15 15:27 : client: [146] opened from 127.0.0.1:33828
+Apr 15 15:27 : client: [146] closed
+Apr 15 15:27 : client: [147] opened from 127.0.0.1:33832
+Apr 15 15:27 : client: [147] closed
+Apr 15 15:27 : client: [148] opened from 127.0.0.1:33836
+Apr 15 15:27 : client: [148] closed
+Apr 15 15:27 : client: [149] opened from 127.0.0.1:33840
+Apr 15 15:27 : client: [149] closed
+Apr 15 15:27 : client: [150] opened from 127.0.0.1:33844
+Apr 15 15:27 : client: [150] closed
+Apr 15 15:27 : client: [151] opened from 127.0.0.1:33848
+Apr 15 15:27 : client: [151] closed
+Apr 15 15:27 : client: [152] opened from 127.0.0.1:33852
+Apr 15 15:27 : client: [152] closed
+Apr 15 15:27 : client: [153] opened from 127.0.0.1:33856
+Apr 15 15:27 : client: [153] closed
+Apr 15 15:27 : client: [154] opened from 127.0.0.1:33860
+Apr 15 15:27 : client: [154] closed
+Apr 15 15:27 : client: [155] opened from 127.0.0.1:33864
+Apr 15 15:27 : client: [155] closed
+Apr 15 15:27 : client: [156] opened from 127.0.0.1:33868
+Apr 15 15:27 : client: [156] closed
+Apr 15 15:27 : client: [157] opened from 127.0.0.1:33872
+Apr 15 15:27 : client: [157] closed
+Apr 15 15:27 : client: [158] opened from 127.0.0.1:33876
+Apr 15 15:27 : client: [158] closed
+Apr 15 15:27 : client: [159] opened from 127.0.0.1:33880
+Apr 15 15:27 : client: [159] closed
+Apr 15 15:27 : client: [160] opened from 127.0.0.1:33884
+Apr 15 15:27 : client: [160] closed
+Apr 15 15:27 : client: [161] opened from 127.0.0.1:33888
+Apr 15 15:27 : client: [161] closed
+Apr 15 15:27 : client: [162] opened from 127.0.0.1:33892
+Apr 15 15:27 : client: [162] closed
+Apr 15 15:27 : client: [163] opened from 127.0.0.1:33896
+Apr 15 15:27 : client: [163] closed
+Apr 15 15:27 : client: [164] opened from 127.0.0.1:33900
+Apr 15 15:27 : client: [164] closed
+Apr 15 15:27 : client: [165] opened from 127.0.0.1:33904
+Apr 15 15:27 : client: [165] closed
+Apr 15 15:27 : client: [166] opened from 127.0.0.1:33908
+Apr 15 15:27 : client: [166] closed
+Apr 15 15:28 : client: [167] opened from 127.0.0.1:33912
+Apr 15 15:28 : client: [167] closed
+Apr 15 15:28 : client: [168] opened from 127.0.0.1:33916
+Apr 15 15:28 : client: [168] closed
+Apr 15 15:28 : client: [169] opened from 127.0.0.1:33920
+Apr 15 15:28 : client: [169] closed
+Apr 15 15:28 : client: [170] opened from 127.0.0.1:33924
+Apr 15 15:28 : client: [170] closed
+Apr 15 15:28 : client: [171] opened from 127.0.0.1:33928
+Apr 15 15:28 : client: [171] closed
+Apr 15 15:28 : client: [172] opened from 127.0.0.1:33932
+Apr 15 15:28 : client: [172] closed
+Apr 15 15:28 : client: [173] opened from 127.0.0.1:33936
+Apr 15 15:28 : client: [173] closed
+Apr 15 15:28 : client: [174] opened from 127.0.0.1:33940
+Apr 15 15:28 : client: [174] closed
+Apr 15 15:28 : client: [175] opened from 127.0.0.1:33944
+Apr 15 15:28 : client: [175] closed
+Apr 15 15:28 : client: [176] opened from 127.0.0.1:33948
+Apr 15 15:28 : client: [176] closed
+Apr 15 15:28 : client: [177] opened from 127.0.0.1:33952
+Apr 15 15:28 : client: [177] closed
+Apr 15 15:28 : client: [178] opened from 127.0.0.1:33956
+Apr 15 15:28 : client: [178] closed
+Apr 15 15:28 : client: [179] opened from 127.0.0.1:33960
+Apr 15 15:28 : client: [179] closed
+Apr 15 15:28 : client: [180] opened from 127.0.0.1:33964
+Apr 15 15:28 : client: [180] closed
+Apr 15 15:28 : client: [181] opened from 127.0.0.1:33968
+Apr 15 15:28 : client: [181] closed
+Apr 15 15:28 : client: [182] opened from 127.0.0.1:33972
+Apr 15 15:28 : client: [182] closed
+Apr 15 15:28 : client: [183] opened from 127.0.0.1:33976
+Apr 15 15:28 : client: [183] closed
+Apr 15 15:28 : client: [184] opened from 127.0.0.1:33980
+Apr 15 15:28 : client: [184] closed
+Apr 15 15:28 : client: [185] opened from 127.0.0.1:33984
+Apr 15 15:28 : client: [185] closed
+Apr 15 15:28 : client: [186] opened from 127.0.0.1:33988
+Apr 15 15:28 : client: [186] closed
+Apr 15 15:28 : client: [187] opened from 127.0.0.1:33992
+Apr 15 15:28 : client: [187] closed
+Apr 15 15:28 : client: [188] opened from 127.0.0.1:33996
+Apr 15 15:28 : client: [188] closed
+Apr 15 15:28 : client: [189] opened from 127.0.0.1:34000
+Apr 15 15:28 : client: [189] closed
+Apr 15 15:28 : client: [190] opened from 127.0.0.1:34004
+Apr 15 15:28 : client: [190] closed
+Apr 15 15:28 : client: [191] opened from 127.0.0.1:34008
+Apr 15 15:28 : client: [191] closed
+Apr 15 15:28 : client: [192] opened from 127.0.0.1:34012
+Apr 15 15:28 : client: [192] closed
+Apr 15 15:28 : client: [193] opened from 127.0.0.1:34016
+Apr 15 15:28 : client: [193] closed
+Apr 15 15:28 : client: [194] opened from 127.0.0.1:34020
+Apr 15 15:28 : client: [194] closed
+Apr 15 15:28 : client: [195] opened from 127.0.0.1:34024
+Apr 15 15:28 : client: [195] closed
+Apr 15 15:28 : client: [196] opened from 127.0.0.1:34028
+Apr 15 15:28 : client: [196] closed
+Apr 15 15:28 : client: [197] opened from 127.0.0.1:34032
+Apr 15 15:28 : client: [197] closed
+Apr 15 15:28 : client: [198] opened from 127.0.0.1:34036
+Apr 15 15:28 : client: [198] closed
+Apr 15 15:28 : client: [199] opened from 127.0.0.1:34040
+Apr 15 15:28 : client: [199] closed
+Apr 15 15:28 : client: [200] opened from 127.0.0.1:34044
+Apr 15 15:28 : client: [200] closed
+Apr 15 15:28 : client: [201] opened from 127.0.0.1:34048
+Apr 15 15:28 : client: [201] closed
+Apr 15 15:28 : client: [202] opened from 127.0.0.1:34052
+Apr 15 15:28 : client: [202] closed
+Apr 15 15:28 : client: [203] opened from 127.0.0.1:34056
+Apr 15 15:28 : client: [203] closed
+Apr 15 15:28 : client: [204] opened from 127.0.0.1:34060
+Apr 15 15:28 : client: [204] closed
+Apr 15 15:28 : client: [205] opened from 127.0.0.1:34064
+Apr 15 15:28 : client: [205] closed
+Apr 15 15:28 : client: [206] opened from 127.0.0.1:34068
+Apr 15 15:28 : client: [206] closed
+Apr 15 15:28 : client: [207] opened from 127.0.0.1:34072
+Apr 15 15:28 : client: [207] closed
+Apr 15 15:28 : client: [208] opened from 127.0.0.1:34076
+Apr 15 15:28 : client: [208] closed
+Apr 15 15:28 : client: [209] opened from 127.0.0.1:34080
+Apr 15 15:28 : client: [209] closed
+Apr 15 15:28 : client: [210] opened from 127.0.0.1:34084
+Apr 15 15:28 : client: [210] closed
+Apr 15 15:28 : client: [211] opened from 127.0.0.1:34088
+Apr 15 15:28 : client: [211] closed
+Apr 15 15:28 : client: [212] opened from 127.0.0.1:34092
+Apr 15 15:28 : client: [212] closed
+Apr 15 15:28 : client: [213] opened from 127.0.0.1:34096
+Apr 15 15:28 : client: [213] closed
+Apr 15 15:28 : client: [214] opened from 127.0.0.1:34100
+Apr 15 15:28 : client: [214] closed
+Apr 15 15:28 : client: [215] opened from 127.0.0.1:34104
+Apr 15 15:28 : client: [215] closed
+Apr 15 15:28 : client: [216] opened from 127.0.0.1:34108
+Apr 15 15:28 : client: [216] closed
+Apr 15 15:28 : client: [217] opened from 127.0.0.1:34112
+Apr 15 15:28 : client: [217] closed
+Apr 15 15:28 : client: [218] opened from 127.0.0.1:34116
+Apr 15 15:28 : client: [218] closed
+Apr 15 15:28 : client: [219] opened from 127.0.0.1:34120
+Apr 15 15:28 : client: [219] closed
+Apr 15 15:28 : client: [220] opened from 127.0.0.1:34124
+Apr 15 15:28 : client: [220] closed
+Apr 15 15:28 : client: [221] opened from 127.0.0.1:34128
+Apr 15 15:28 : client: [221] closed
+Apr 15 15:28 : client: [222] opened from 127.0.0.1:34132
+Apr 15 15:28 : client: [222] closed
+Apr 15 15:28 : client: [223] opened from 127.0.0.1:34136
+Apr 15 15:28 : client: [223] closed
+Apr 15 15:28 : client: [224] opened from 127.0.0.1:34140
+Apr 15 15:28 : client: [224] closed
+Apr 15 15:28 : client: [225] opened from 127.0.0.1:34144
+Apr 15 15:28 : client: [225] closed
+Apr 15 15:28 : client: [226] opened from 127.0.0.1:34148
+Apr 15 15:28 : client: [226] closed
+Apr 15 15:28 : client: [227] opened from 127.0.0.1:34152
+Apr 15 15:28 : client: [227] closed
+Apr 15 15:28 : client: [228] opened from 127.0.0.1:34156
+Apr 15 15:28 : client: [228] closed
+Apr 15 15:28 : client: [229] opened from 127.0.0.1:34160
+Apr 15 15:28 : client: [229] closed
+Apr 15 15:28 : client: [230] opened from 127.0.0.1:34164
+Apr 15 15:28 : client: [230] closed
+Apr 15 15:28 : client: [231] opened from 127.0.0.1:34168
+Apr 15 15:28 : client: [231] closed
+Apr 15 15:28 : client: [232] opened from 127.0.0.1:34172
+Apr 15 15:28 : client: [232] closed
+Apr 15 15:28 : client: [233] opened from 127.0.0.1:34176
+Apr 15 15:28 : client: [233] closed
+Apr 15 15:28 : client: [234] opened from 127.0.0.1:34180
+Apr 15 15:28 : client: [234] closed
+Apr 15 15:28 : client: [235] opened from 127.0.0.1:34184
+Apr 15 15:28 : client: [235] closed
+Apr 15 15:28 : client: [236] opened from 127.0.0.1:34188
+Apr 15 15:28 : client: [236] closed
+Apr 15 15:28 : client: [237] opened from 127.0.0.1:34192
+Apr 15 15:28 : client: [237] closed
+Apr 15 15:28 : client: [238] opened from 127.0.0.1:34196
+Apr 15 15:28 : client: [238] closed
+Apr 15 15:28 : client: [239] opened from 127.0.0.1:34200
+Apr 15 15:28 : client: [239] closed
+Apr 15 15:28 : client: [240] opened from 127.0.0.1:34204
+Apr 15 15:28 : client: [240] closed
+Apr 15 15:28 : client: [241] opened from 127.0.0.1:34208
+Apr 15 15:28 : client: [241] closed
+Apr 15 15:28 : client: [242] opened from 127.0.0.1:34212
+Apr 15 15:28 : client: [242] closed
+Apr 15 15:28 : client: [243] opened from 127.0.0.1:34216
+Apr 15 15:28 : client: [243] closed
+Apr 15 15:28 : client: [244] opened from 127.0.0.1:34220
+Apr 15 15:28 : client: [244] closed
+Apr 15 15:28 : client: [245] opened from 127.0.0.1:34224
+Apr 15 15:28 : client: [245] closed
+Apr 15 15:28 : client: [246] opened from 127.0.0.1:34228
+Apr 15 15:28 : client: [246] closed
+Apr 15 15:28 : client: [247] opened from 127.0.0.1:34232
+Apr 15 15:28 : client: [247] closed
+Apr 15 15:28 : client: [248] opened from 127.0.0.1:34236
+Apr 15 15:28 : client: [248] closed
+Apr 15 15:28 : client: [249] opened from 127.0.0.1:34240
+Apr 15 15:28 : client: [249] closed
+Apr 15 15:28 : client: [250] opened from 127.0.0.1:34244
+Apr 15 15:28 : client: [250] closed
+Apr 15 15:28 : client: [251] opened from 127.0.0.1:34248
+Apr 15 15:28 : client: [251] closed
+Apr 15 15:28 : client: [252] opened from 127.0.0.1:34252
+Apr 15 15:28 : client: [252] closed
+Apr 15 15:28 : client: [253] opened from 127.0.0.1:34256
+Apr 15 15:28 : client: [253] closed
+Apr 15 15:28 : client: [254] opened from 127.0.0.1:34260
+Apr 15 15:28 : client: [254] closed
+Apr 15 15:28 : client: [255] opened from 127.0.0.1:34264
+Apr 15 15:28 : client: [255] closed
+Apr 15 15:28 : client: [256] opened from 127.0.0.1:34268
+Apr 15 15:28 : client: [256] closed
+Apr 15 15:28 : client: [257] opened from 127.0.0.1:34272
+Apr 15 15:28 : client: [257] closed
+Apr 15 15:28 : client: [258] opened from 127.0.0.1:34276
+Apr 15 15:28 : client: [258] closed
+Apr 15 15:29 : client: [259] opened from 127.0.0.1:34280
+Apr 15 15:29 : client: [259] closed
+Apr 15 15:29 : client: [260] opened from 127.0.0.1:34284
+Apr 15 15:29 : client: [260] closed
+Apr 15 15:29 : client: [261] opened from 127.0.0.1:34288
+Apr 15 15:29 : client: [261] closed
+Apr 15 15:29 : client: [262] opened from 127.0.0.1:34292
+Apr 15 15:29 : client: [262] closed
+Apr 15 15:29 : client: [263] opened from 127.0.0.1:34296
+Apr 15 15:29 : client: [263] closed
+Apr 15 15:29 : client: [264] opened from 127.0.0.1:34300
+Apr 15 15:29 : client: [264] closed
+Apr 15 15:29 : client: [265] opened from 127.0.0.1:34304
+Apr 15 15:29 : client: [265] closed
+Apr 15 15:29 : client: [266] opened from 127.0.0.1:34308
+Apr 15 15:29 : client: [266] closed
+Apr 15 15:29 : client: [267] opened from 127.0.0.1:34312
+Apr 15 15:29 : client: [267] closed
+Apr 15 15:29 : client: [268] opened from 127.0.0.1:34316
+Apr 15 15:29 : client: [268] closed
+Apr 15 15:29 : client: [269] opened from 127.0.0.1:34320
+Apr 15 15:29 : client: [269] closed
+Apr 15 15:29 : client: [270] opened from 127.0.0.1:34324
+Apr 15 15:29 : client: [270] closed
+Apr 15 15:29 : client: [271] opened from 127.0.0.1:34328
+Apr 15 15:29 : client: [271] closed
+Apr 15 15:29 : client: [272] opened from 127.0.0.1:34332
+Apr 15 15:29 : client: [272] closed
+Apr 15 15:29 : client: [273] opened from 127.0.0.1:34336
+Apr 15 15:29 : client: [273] closed
+Apr 15 15:29 : client: [274] opened from 127.0.0.1:34340
+Apr 15 15:29 : client: [274] closed
+Apr 15 15:29 : client: [275] opened from 127.0.0.1:34344
+Apr 15 15:29 : client: [275] closed
+Apr 15 15:29 : client: [276] opened from 127.0.0.1:34348
+Apr 15 15:29 : client: [276] closed
+Apr 15 15:29 : client: [277] opened from 127.0.0.1:34352
+Apr 15 15:29 : client: [277] closed
+Apr 15 15:29 : client: [278] opened from 127.0.0.1:34356
+Apr 15 15:29 : client: [278] closed
+Apr 15 15:29 : client: [279] opened from 127.0.0.1:34360
+Apr 15 15:29 : client: [279] closed
+Apr 15 15:29 : client: [280] opened from 127.0.0.1:34364
+Apr 15 15:29 : client: [280] closed
+Apr 15 15:29 : client: [281] opened from 127.0.0.1:34368
+Apr 15 15:29 : client: [281] closed
+Apr 15 15:29 : client: [282] opened from 127.0.0.1:34372
+Apr 15 15:29 : client: [282] closed
+Apr 15 15:29 : client: [283] opened from 127.0.0.1:34376
+Apr 15 15:29 : client: [283] closed
+Apr 15 15:29 : client: [284] opened from 127.0.0.1:34380
+Apr 15 15:29 : client: [284] closed
+Apr 15 15:29 : client: [285] opened from 127.0.0.1:34384
+Apr 15 15:29 : client: [285] closed
+Apr 15 15:29 : client: [286] opened from 127.0.0.1:34388
+Apr 15 15:29 : client: [286] closed
+Apr 15 15:29 : client: [287] opened from 127.0.0.1:34392
+Apr 15 15:29 : client: [287] closed
+Apr 15 15:29 : client: [288] opened from 127.0.0.1:34396
+Apr 15 15:29 : client: [288] closed
+Apr 15 15:29 : client: [289] opened from 127.0.0.1:34400
+Apr 15 15:29 : client: [289] closed
+Apr 15 15:29 : client: [290] opened from 127.0.0.1:34404
+Apr 15 15:29 : client: [290] closed
+Apr 15 15:29 : client: [291] opened from 127.0.0.1:34408
+Apr 15 15:29 : client: [291] closed
+Apr 15 15:29 : client: [292] opened from 127.0.0.1:34412
+Apr 15 15:29 : client: [292] closed
+Apr 15 15:29 : client: [293] opened from 127.0.0.1:34416
+Apr 15 15:29 : client: [293] closed
+Apr 15 15:29 : client: [294] opened from 127.0.0.1:34420
+Apr 15 15:29 : client: [294] closed
+Apr 15 15:29 : client: [295] opened from 127.0.0.1:34424
+Apr 15 15:29 : client: [295] closed
+Apr 15 15:29 : client: [296] opened from 127.0.0.1:34428
+Apr 15 15:29 : client: [296] closed
+Apr 15 15:29 : client: [297] opened from 127.0.0.1:34432
+Apr 15 15:29 : client: [297] closed
+Apr 15 15:29 : client: [298] opened from 127.0.0.1:34436
+Apr 15 15:29 : client: [298] closed
+Apr 15 15:29 : client: [299] opened from 127.0.0.1:34440
+Apr 15 15:29 : client: [299] closed
+Apr 15 15:29 : client: [300] opened from 127.0.0.1:34444
+Apr 15 15:29 : client: [300] closed
+Apr 15 15:29 : client: [301] opened from 127.0.0.1:34448
+Apr 15 15:29 : client: [301] closed
+Apr 15 15:29 : client: [302] opened from 127.0.0.1:34452
+Apr 15 15:29 : client: [302] closed
+Apr 15 15:29 : client: [303] opened from 127.0.0.1:34456
+Apr 15 15:29 : client: [303] closed
+Apr 15 15:29 : client: [304] opened from 127.0.0.1:34460
+Apr 15 15:29 : client: [304] closed
+Apr 15 15:29 : client: [305] opened from 127.0.0.1:34464
+Apr 15 15:29 : client: [305] closed
+Apr 15 15:29 : client: [306] opened from 127.0.0.1:34468
+Apr 15 15:29 : client: [306] closed
+Apr 15 15:29 : client: [307] opened from 127.0.0.1:34472
+Apr 15 15:29 : client: [307] closed
+Apr 15 15:29 : client: [308] opened from 127.0.0.1:34476
+Apr 15 15:29 : client: [308] closed
+Apr 15 15:29 : client: [309] opened from 127.0.0.1:34480
+Apr 15 15:29 : client: [309] closed
+Apr 15 15:29 : client: [310] opened from 127.0.0.1:34484
+Apr 15 15:29 : client: [310] closed
+Apr 15 15:29 : client: [311] opened from 127.0.0.1:34488
+Apr 15 15:29 : client: [311] closed
+Apr 15 15:29 : client: [312] opened from 127.0.0.1:34492
+Apr 15 15:29 : client: [312] closed
+Apr 15 15:29 : client: [313] opened from 127.0.0.1:34496
+Apr 15 15:29 : client: [313] closed
+Apr 15 15:29 : client: [314] opened from 127.0.0.1:34500
+Apr 15 15:29 : client: [314] closed
+Apr 15 15:29 : client: [315] opened from 127.0.0.1:34504
+Apr 15 15:29 : client: [315] closed
+Apr 15 15:29 : client: [316] opened from 127.0.0.1:34508
+Apr 15 15:29 : client: [316] closed
+Apr 15 15:29 : client: [317] opened from 127.0.0.1:34512
+Apr 15 15:29 : client: [317] closed
+Apr 15 15:29 : client: [318] opened from 127.0.0.1:34516
+Apr 15 15:29 : client: [318] closed
+Apr 15 15:29 : client: [319] opened from 127.0.0.1:34520
+Apr 15 15:29 : client: [319] closed
+Apr 15 15:29 : client: [320] opened from 127.0.0.1:34524
+Apr 15 15:29 : client: [320] closed
+Apr 15 15:29 : client: [321] opened from 127.0.0.1:34528
+Apr 15 15:29 : client: [321] closed
+Apr 15 15:29 : client: [322] opened from 127.0.0.1:34532
+Apr 15 15:29 : client: [322] closed
+Apr 15 15:29 : client: [323] opened from 127.0.0.1:34536
+Apr 15 15:29 : client: [323] closed
+Apr 15 15:29 : client: [324] opened from 127.0.0.1:34540
+Apr 15 15:29 : client: [324] closed
+Apr 15 15:29 : client: [325] opened from 127.0.0.1:34544
+Apr 15 15:29 : client: [325] closed
+Apr 15 15:29 : client: [326] opened from 127.0.0.1:34548
+Apr 15 15:29 : client: [326] closed
+Apr 15 15:29 : client: [327] opened from 127.0.0.1:34552
+Apr 15 15:29 : client: [327] closed
+Apr 15 15:29 : client: [328] opened from 127.0.0.1:34556
+Apr 15 15:29 : client: [328] closed
+Apr 15 15:29 : client: [329] opened from 127.0.0.1:34560
+Apr 15 15:29 : client: [329] closed
+Apr 15 15:29 : client: [330] opened from 127.0.0.1:34564
+Apr 15 15:29 : client: [330] closed
+Apr 15 15:29 : client: [331] opened from 127.0.0.1:34568
+Apr 15 15:29 : client: [331] closed
+Apr 15 15:29 : client: [332] opened from 127.0.0.1:34572
+Apr 15 15:29 : client: [332] closed
+Apr 15 15:29 : client: [333] opened from 127.0.0.1:34576
+Apr 15 15:29 : client: [333] closed
+Apr 15 15:29 : client: [334] opened from 127.0.0.1:34580
+Apr 15 15:29 : client: [334] closed
+Apr 15 15:30 : client: [335] opened from 127.0.0.1:34584
+Apr 15 15:30 : client: [335] closed
+Apr 15 15:30 : client: [336] opened from 127.0.0.1:34588
+Apr 15 15:30 : client: [336] closed
+Apr 15 15:30 : client: [337] opened from 127.0.0.1:34592
+Apr 15 15:30 : client: [337] closed
+Apr 15 15:30 : client: [338] opened from 127.0.0.1:34596
+Apr 15 15:30 : client: [338] closed
+Apr 15 15:30 : client: [339] opened from 127.0.0.1:34600
+Apr 15 15:30 : client: [339] closed
+Apr 15 15:30 : client: [340] opened from 127.0.0.1:34604
+Apr 15 15:30 : client: [340] closed
+Apr 15 15:30 : client: [341] opened from 127.0.0.1:34608
+Apr 15 15:30 : client: [341] closed
+Apr 15 15:30 : client: [342] opened from 127.0.0.1:34612
+Apr 15 15:30 : client: [342] closed
+Apr 15 15:30 : client: [343] opened from 127.0.0.1:34616
+Apr 15 15:30 : client: [343] closed
+Apr 15 15:30 : client: [344] opened from 127.0.0.1:34620
+Apr 15 15:30 : client: [344] closed
+Apr 15 15:30 : client: [345] opened from 127.0.0.1:34624
+Apr 15 15:30 : client: [345] closed
+Apr 15 15:30 : client: [346] opened from 127.0.0.1:34628
+Apr 15 15:30 : client: [346] closed
+Apr 15 15:30 : client: [347] opened from 127.0.0.1:34632
+Apr 15 15:30 : client: [347] closed
+Apr 15 15:30 : client: [348] opened from 127.0.0.1:34636
+Apr 15 15:30 : client: [348] closed
+Apr 15 15:30 : client: [349] opened from 127.0.0.1:34640
+Apr 15 15:30 : client: [349] closed
+Apr 15 15:30 : client: [350] opened from 127.0.0.1:34644
+Apr 15 15:30 : client: [350] closed
+Apr 15 15:30 : client: [351] opened from 127.0.0.1:34648
+Apr 15 15:30 : client: [351] closed
+Apr 15 15:30 : client: [352] opened from 127.0.0.1:34652
+Apr 15 15:30 : client: [352] closed
+Apr 15 15:30 : client: [353] opened from 127.0.0.1:34656
+Apr 15 15:30 : client: [353] closed
+Apr 15 15:30 : client: [354] opened from 127.0.0.1:34660
+Apr 15 15:30 : client: [354] closed
+Apr 15 15:30 : client: [355] opened from 127.0.0.1:34664
+Apr 15 15:30 : client: [355] closed
+Apr 15 15:30 : client: [356] opened from 127.0.0.1:34668
+Apr 15 15:30 : client: [356] closed
+Apr 15 15:30 : client: [357] opened from 127.0.0.1:34672
+Apr 15 15:30 : client: [357] closed
+Apr 15 15:30 : client: [358] opened from 127.0.0.1:34676
+Apr 15 15:30 : client: [358] closed
+Apr 15 15:30 : client: [359] opened from 127.0.0.1:34680
+Apr 15 15:30 : client: [359] closed
+Apr 15 15:30 : client: [360] opened from 127.0.0.1:34684
+Apr 15 15:30 : client: [360] closed
+Apr 15 15:30 : client: [361] opened from 127.0.0.1:34688
+Apr 15 15:30 : client: [361] closed
+Apr 15 15:30 : client: [362] opened from 127.0.0.1:34692
+Apr 15 15:30 : client: [362] closed
+Apr 15 15:30 : client: [363] opened from 127.0.0.1:34696
+Apr 15 15:30 : client: [363] closed
+Apr 15 15:30 : client: [364] opened from 127.0.0.1:34700
+Apr 15 15:30 : client: [364] closed
+Apr 15 15:30 : client: [365] opened from 127.0.0.1:34704
+Apr 15 15:30 : client: [365] closed
+Apr 15 15:30 : client: [366] opened from 127.0.0.1:34708
+Apr 15 15:30 : client: [366] closed
+Apr 15 15:30 : client: [367] opened from 127.0.0.1:34712
+Apr 15 15:30 : client: [367] closed
+Apr 15 15:30 : client: [368] opened from 127.0.0.1:34716
+Apr 15 15:30 : client: [368] closed
+Apr 15 15:30 : client: [369] opened from 127.0.0.1:34720
+Apr 15 15:30 : client: [369] closed
+Apr 15 15:30 : client: [370] opened from 127.0.0.1:34724
+Apr 15 15:30 : client: [370] closed
+Apr 15 15:30 : client: [371] opened from 127.0.0.1:34728
+Apr 15 15:30 : client: [371] closed
+Apr 15 15:30 : client: [372] opened from 127.0.0.1:34732
+Apr 15 15:30 : client: [372] closed
+Apr 15 15:30 : client: [373] opened from 127.0.0.1:34736
+Apr 15 15:30 : client: [373] closed
+Apr 15 15:30 : client: [374] opened from 127.0.0.1:34740
+Apr 15 15:30 : client: [374] closed
+Apr 15 15:30 : client: [375] opened from 127.0.0.1:34744
+Apr 15 15:30 : client: [375] closed
+Apr 15 15:30 : client: [376] opened from 127.0.0.1:34748
+Apr 15 15:30 : client: [376] closed
+Apr 15 15:30 : client: [377] opened from 127.0.0.1:34754
+Apr 15 15:30 : client: [377] closed
+Apr 15 15:30 : client: [378] opened from 127.0.0.1:34758
+Apr 15 15:30 : client: [378] closed
+Apr 15 15:30 : client: [379] opened from 127.0.0.1:34762
+Apr 15 15:30 : client: [379] closed
+Apr 15 15:30 : client: [380] opened from 127.0.0.1:34766
+Apr 15 15:30 : client: [380] closed
+Apr 15 15:30 : client: [381] opened from 127.0.0.1:34772
+Apr 15 15:30 : client: [381] closed
+Apr 15 15:30 : client: [382] opened from 127.0.0.1:34776
+Apr 15 15:30 : client: [382] closed
+Apr 15 15:30 : client: [383] opened from 127.0.0.1:34780
+Apr 15 15:30 : client: [383] closed
+Apr 15 15:30 : client: [384] opened from 127.0.0.1:34784
+Apr 15 15:30 : client: [384] closed
+Apr 15 15:30 : client: [385] opened from 127.0.0.1:34788
+Apr 15 15:30 : client: [385] closed
+Apr 15 15:30 : client: [386] opened from 127.0.0.1:34792
+Apr 15 15:30 : client: [386] closed
+Apr 15 15:30 : client: [387] opened from 127.0.0.1:34796
+Apr 15 15:30 : client: [387] closed
+Apr 15 15:30 : client: [388] opened from 127.0.0.1:34800
+Apr 15 15:30 : client: [388] closed
+Apr 15 15:30 : client: [389] opened from 127.0.0.1:34820
+Apr 15 15:30 : client: [389] closed
+Apr 15 15:30 : client: [390] opened from 127.0.0.1:34824
+Apr 15 15:30 : client: [390] closed
+Apr 15 15:30 : client: [391] opened from 127.0.0.1:34830
+Apr 15 15:30 : client: [391] closed
+Apr 15 15:30 : client: [392] opened from 127.0.0.1:34834
+Apr 15 15:30 : client: [392] closed
+Apr 15 15:30 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 15 15:30 : client: [393] opened from 127.0.0.1:34926
+Apr 15 15:30 : client: [393] closed
+Apr 15 15:41 : client: [394] opened from 127.0.0.1:34944
+Apr 15 15:41 : client: [394] closed
+Apr 15 16:06 : client: [0] closed
+Apr 15 16:06 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 15 20:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 20:24 : config: option 'mixer_control' on line 287 was not recognized
+Apr 15 20:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 20:24 : client: [0] opened from 127.0.0.1:55636
+Apr 15 20:24 : client: [1] opened from 127.0.0.1:55640
+Apr 15 20:24 : client: [1] closed
+Apr 15 21:19 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 15 21:19 : client: [2] opened from 127.0.0.1:56054
+Apr 15 21:19 : client: [2] closed
+Apr 15 21:23 : player: played "Because of You - Kelly Clarkson.mp4"
+Apr 15 21:23 : client: [3] opened from 127.0.0.1:56058
+Apr 15 21:23 : client: [3] closed
+Apr 15 21:27 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 15 21:27 : client: [4] opened from 127.0.0.1:56062
+Apr 15 21:27 : client: [4] closed
+Apr 15 21:31 : player: played "IWAN FALS - 22 Januari.mp3"
+Apr 15 21:31 : client: [5] opened from 127.0.0.1:56066
+Apr 15 21:31 : client: [5] closed
+Apr 15 21:36 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 15 21:36 : client: [6] opened from 127.0.0.1:56070
+Apr 15 21:36 : client: [6] closed
+Apr 15 21:37 : client: [0] closed
+Apr 15 21:37 : client: [7] opened from 127.0.0.1:56072
+Apr 15 21:37 : client: [8] opened from 127.0.0.1:56076
+Apr 15 21:37 : client: [8] closed
+Apr 15 21:41 : player: played "iwan fals- Kemesraan.mp3"
+Apr 15 21:41 : client: [9] opened from 127.0.0.1:56112
+Apr 15 21:41 : client: [9] closed
+Apr 15 21:46 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 15 21:46 : client: [10] opened from 127.0.0.1:56122
+Apr 15 21:46 : client: [10] closed
+Apr 15 21:48 : client: [7] closed
+Apr 15 21:48 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 15 23:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 23:35 : config: option 'mixer_control' on line 287 was not recognized
+Apr 15 23:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 23:36 : client: [0] opened from 127.0.0.1:59474
+Apr 15 23:36 : client: [1] opened from 127.0.0.1:59478
+Apr 15 23:36 : client: [1] closed
+Apr 15 23:38 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 15 23:38 : client: [2] opened from 127.0.0.1:59518
+Apr 15 23:38 : client: [2] closed
+Apr 15 23:43 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 15 23:43 : client: [3] opened from 127.0.0.1:59698
+Apr 15 23:43 : client: [3] closed
+Apr 15 23:45 : client: [4] opened from 127.0.0.1:59704
+Apr 15 23:45 : client: [5] opened from 127.0.0.1:59708
+Apr 15 23:45 : client: [5] closed
+Apr 15 23:46 : client: [4] closed
+Apr 15 23:46 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 15 23:46 : client: [6] opened from 127.0.0.1:59712
+Apr 15 23:46 : client: [6] closed
+Apr 15 23:51 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 15 23:51 : client: [7] opened from 127.0.0.1:59728
+Apr 15 23:51 : client: [7] closed
+Apr 15 23:55 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 15 23:55 : client: [8] opened from 127.0.0.1:59882
+Apr 15 23:55 : client: [8] closed
+Apr 15 23:59 : client: [0] closed
+Apr 15 23:59 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 16 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 11:52 : config: option 'mixer_control' on line 287 was not recognized
+Apr 16 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 11:52 : client: [0] opened from 127.0.0.1:57668
+Apr 16 11:52 : client: [1] opened from 127.0.0.1:57672
+Apr 16 11:52 : client: [1] closed
+Apr 16 11:52 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 16 11:52 : client: [2] opened from 127.0.0.1:57676
+Apr 16 11:52 : client: [2] closed
+Apr 16 11:58 : player: played "IWAN FALS-Belalang Tua.mp3"
+Apr 16 11:58 : client: [3] opened from 127.0.0.1:57818
+Apr 16 11:58 : client: [3] closed
+Apr 16 11:58 : client: [0] closed
+Apr 16 11:59 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 16 15:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 15:47 : config: option 'mixer_control' on line 287 was not recognized
+Apr 16 15:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 15:47 : client: [0] opened from 127.0.0.1:40212
+Apr 16 15:47 : client: [1] opened from 127.0.0.1:40216
+Apr 16 15:47 : client: [1] closed
+Apr 16 15:47 : client: [2] opened from 127.0.0.1:40218
+Apr 16 15:47 : client: [3] opened from 127.0.0.1:40222
+Apr 16 15:47 : client: [3] closed
+Apr 16 15:48 : client: [0] closed
+Apr 16 15:50 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 16 15:50 : client: [4] opened from 127.0.0.1:40366
+Apr 16 15:50 : client: [4] closed
+Apr 16 15:54 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 16 15:54 : client: [5] opened from 127.0.0.1:40380
+Apr 16 15:54 : client: [5] closed
+Apr 16 16:01 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 16 16:01 : client: [6] opened from 127.0.0.1:40464
+Apr 16 16:01 : client: [6] closed
+Apr 16 16:06 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 16 16:06 : client: [7] opened from 127.0.0.1:40478
+Apr 16 16:06 : client: [7] closed
+Apr 16 16:10 : player: played "IWAN FALS-Bung Hatta.mp3"
+Apr 16 16:10 : client: [8] opened from 127.0.0.1:40490
+Apr 16 16:10 : client: [8] closed
+Apr 16 16:15 : player: played "IWAN FALS-Condet.mp3"
+Apr 16 16:15 : client: [9] opened from 127.0.0.1:40516
+Apr 16 16:15 : client: [9] closed
+Apr 16 16:17 : client: [10] opened from 127.0.0.1:40524
+Apr 16 16:17 : client: [10] closed
+Apr 16 16:20 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 16 16:20 : client: [11] opened from 127.0.0.1:40566
+Apr 16 16:20 : client: [11] closed
+Apr 16 16:29 : player: played "IWAN FALS-Dongeng Sebelum Tidur.mp3"
+Apr 16 16:29 : client: [12] opened from 127.0.0.1:40570
+Apr 16 16:29 : client: [12] closed
+Apr 16 16:33 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 16 16:33 : client: [13] opened from 127.0.0.1:40574
+Apr 16 16:33 : client: [13] closed
+Apr 16 16:38 : player: played "IWAN FALS-Entah.mp3"
+Apr 16 16:38 : client: [14] opened from 127.0.0.1:40582
+Apr 16 16:38 : client: [14] closed
+Apr 16 16:43 : player: played "IWAN FALS-Esek-Esek Uduk-Uduk.mp3"
+Apr 16 16:43 : client: [15] opened from 127.0.0.1:40586
+Apr 16 16:43 : client: [15] closed
+Apr 16 16:44 : client: [2] closed
+Apr 16 16:44 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 16 22:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 22:12 : config: option 'mixer_control' on line 287 was not recognized
+Apr 16 22:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 22:12 : client: [0] opened from 127.0.0.1:38100
+Apr 16 22:12 : client: [1] opened from 127.0.0.1:38104
+Apr 16 22:12 : client: [1] closed
+Apr 16 22:13 : client: [2] opened from 127.0.0.1:38106
+Apr 16 22:13 : client: [3] opened from 127.0.0.1:38110
+Apr 16 22:13 : client: [3] closed
+Apr 16 22:18 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 16 22:18 : client: [4] opened from 127.0.0.1:38116
+Apr 16 22:18 : client: [4] closed
+Apr 16 22:18 : client: [5] opened from 127.0.0.1:38120
+Apr 16 22:18 : client: [5] closed
+Apr 16 22:18 : client: [0] closed
+Apr 16 22:18 : client: [2] closed
+Apr 16 22:18 : client: [6] opened from 127.0.0.1:38122
+Apr 16 22:18 : client: [7] opened from 127.0.0.1:38126
+Apr 16 22:18 : client: [7] closed
+Apr 16 22:22 : player: played "IWAN FALS-Galang Rambu Anarki.mp3"
+Apr 16 22:22 : client: [8] opened from 127.0.0.1:38130
+Apr 16 22:22 : client: [8] closed
+Apr 16 22:26 : player: played "IWAN FALS-Guru Oemar Bakri.mp3"
+Apr 16 22:26 : client: [9] opened from 127.0.0.1:38134
+Apr 16 22:26 : client: [9] closed
+Apr 16 22:30 : player: played "IWAN FALS-Hadapi Saja (Edit Version).mp3"
+Apr 16 22:30 : client: [10] opened from 127.0.0.1:38140
+Apr 16 22:30 : client: [10] closed
+Apr 16 22:33 : player: played "IWAN FALS-Ibu.mp3"
+Apr 16 22:33 : client: [11] opened from 127.0.0.1:38202
+Apr 16 22:33 : client: [11] closed
+Apr 16 22:38 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 16 22:41 : client: [6] closed
+Apr 16 22:42 : player: played "IWAN FALS-Ini Bukan Mimpi.MP3"
+Apr 17 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 16:09 : config: option 'mixer_control' on line 287 was not recognized
+Apr 17 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 16:10 : player: played "IWAN FALS-Ini Bukan Mimpi.MP3"
+Apr 17 16:10 : client: [0] opened from 127.0.0.1:43818
+Apr 17 16:10 : client: [1] opened from 127.0.0.1:43822
+Apr 17 16:10 : client: [1] closed
+Apr 17 16:11 : client: [0] closed
+Apr 17 16:11 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 17 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 20:44 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 20:44 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 20:44 : client: [0] opened from 127.0.0.1:37922
+Apr 17 20:44 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 17 20:44 : client: [1] opened from 127.0.0.1:37926
+Apr 17 20:44 : client: [1] closed
+Apr 17 20:47 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 17 20:47 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 20:47 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 20:47 : client: [2] opened from 127.0.0.1:37932
+Apr 17 20:47 : client: [2] closed
+Apr 17 20:49 : client: [0] closed
+Apr 17 20:49 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 17 20:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 20:54 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 20:54 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 20:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 20:54 : client: [0] opened from 127.0.0.1:38006
+Apr 17 20:54 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 17 20:54 : client: [1] opened from 127.0.0.1:38010
+Apr 17 20:54 : client: [1] closed
+Apr 17 20:55 : client: [0] closed
+Apr 17 20:55 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 17 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:05 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 23:05 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:05 : client: [0] opened from 127.0.0.1:59960
+Apr 17 23:05 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 17 23:05 : client: [1] opened from 127.0.0.1:59964
+Apr 17 23:05 : client: [1] closed
+Apr 17 23:05 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 23:05 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 23:05 : client: [2] opened from 127.0.0.1:59968
+Apr 17 23:05 : client: [2] closed
+Apr 17 23:05 : client: [0] closed
+Apr 17 23:05 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 17 23:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:06 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 23:06 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 23:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:06 : client: [0] opened from 127.0.0.1:59992
+Apr 17 23:06 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 17 23:06 : client: [1] opened from 127.0.0.1:59996
+Apr 17 23:06 : client: [1] closed
+Apr 17 23:08 : client: [0] closed
+Apr 17 23:09 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 17 23:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:17 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 23:17 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 23:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:18 : client: [0] opened from 127.0.0.1:60382
+Apr 17 23:18 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 17 23:18 : client: [1] opened from 127.0.0.1:60386
+Apr 17 23:18 : client: [1] closed
+Apr 17 23:18 : exception: Failed to open "My ALSA Device" [alsa]
+Apr 17 23:18 : exception: nested: Failed to open ALSA device "hw:0,0": No such file or directory
+Apr 17 23:18 : client: [2] opened from 127.0.0.1:60390
+Apr 17 23:18 : client: [2] closed
+Apr 17 23:20 : client: [0] closed
+Apr 17 23:20 : player: played "IWAN FALS-Hadapi Saja (Edit Version).mp3"
+Apr 17 23:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:22 : config: option 'mixer_control' on line 287 was not recognized
+Apr 17 23:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 23:22 : client: [0] opened from 127.0.0.1:60392
+Apr 17 23:22 : client: [1] opened from 127.0.0.1:60396
+Apr 17 23:22 : client: [1] closed
+Apr 17 23:24 : player: played "IWAN FALS-Hadapi Saja (Edit Version).mp3"
+Apr 17 23:24 : client: [2] opened from 127.0.0.1:60444
+Apr 17 23:24 : client: [2] closed
+Apr 17 23:26 : client: [3] opened from 127.0.0.1:60448
+Apr 17 23:26 : client: [4] opened from 127.0.0.1:60452
+Apr 17 23:26 : client: [4] closed
+Apr 17 23:26 : client: [0] closed
+Apr 17 23:27 : player: played "IWAN FALS-Ibu.mp3"
+Apr 17 23:27 : client: [5] opened from 127.0.0.1:60490
+Apr 17 23:27 : client: [5] closed
+Apr 17 23:32 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 17 23:32 : client: [6] opened from 127.0.0.1:60502
+Apr 17 23:32 : client: [6] closed
+Apr 17 23:35 : client: [7] opened from 127.0.0.1:60564
+Apr 17 23:35 : client: [7] closed
+Apr 17 23:35 : client: [3] closed
+Apr 17 23:37 : client: [8] opened from 127.0.0.1:60582
+Apr 17 23:37 : client: [9] opened from 127.0.0.1:60586
+Apr 17 23:37 : client: [9] closed
+Apr 17 23:37 : client: [8] closed
+Apr 17 23:37 : client: [10] opened from 127.0.0.1:60588
+Apr 17 23:37 : client: [11] opened from 127.0.0.1:60592
+Apr 17 23:37 : client: [11] closed
+Apr 17 23:38 : client: [10] closed
+Apr 17 23:38 : client: [12] opened from 127.0.0.1:60594
+Apr 17 23:38 : client: [13] opened from 127.0.0.1:60598
+Apr 17 23:38 : client: [13] closed
+Apr 17 23:40 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 17 23:40 : client: [14] opened from 127.0.0.1:60604
+Apr 17 23:40 : client: [14] closed
+Apr 17 23:46 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 17 23:46 : client: [15] opened from 127.0.0.1:60652
+Apr 17 23:46 : client: [15] closed
+Apr 17 23:50 : player: played "IWAN FALS-Jendela Kelas Satu.mp3"
+Apr 17 23:50 : client: [16] opened from 127.0.0.1:60658
+Apr 17 23:50 : client: [16] closed
+Apr 17 23:54 : player: played "IWAN FALS-Kereta Tiba Pukul Berapa.mp3"
+Apr 17 23:54 : client: [17] opened from 127.0.0.1:60662
+Apr 17 23:54 : client: [17] closed
+Apr 17 23:57 : player: played "IWAN FALS-Kisah Sepeda Motorku.mp3"
+Apr 17 23:57 : client: [18] opened from 127.0.0.1:60682
+Apr 17 23:57 : client: [18] closed
+Apr 18 00:02 : player: played "IWAN FALS-Kupu-Kupu Hitam Putih.mp3"
+Apr 18 00:02 : client: [19] opened from 127.0.0.1:60688
+Apr 18 00:02 : client: [19] closed
+Apr 18 00:06 : player: played "IWAN FALS-Maaf Cintaku.mp3"
+Apr 18 00:11 : player: played "IWAN FALS-Masih Bisa Cinta.MP3"
+Apr 18 00:15 : player: played "IWAN FALS-Mata Indah Bola Pingpong.mp3"
+Apr 18 00:15 : client: [20] opened from 127.0.0.1:60704
+Apr 18 00:15 : client: [20] closed
+Apr 18 00:21 : player: played "IWAN FALS-Matadewa.mp3"
+Apr 18 00:21 : client: [21] opened from 127.0.0.1:60840
+Apr 18 00:21 : client: [21] closed
+Apr 18 00:21 : client: [12] closed
+Apr 18 00:21 : client: [22] opened from 127.0.0.1:60842
+Apr 18 00:21 : client: [23] opened from 127.0.0.1:60846
+Apr 18 00:21 : client: [23] closed
+Apr 18 00:24 : player: played "IWAN FALS-Mimpi Yang Terbeli.mp3"
+Apr 18 00:24 : client: [24] opened from 127.0.0.1:60856
+Apr 18 00:24 : client: [24] closed
+Apr 18 00:29 : player: played "IWAN FALS-Nona.mp3"
+Apr 18 00:29 : client: [25] opened from 127.0.0.1:60882
+Apr 18 00:29 : client: [25] closed
+Apr 18 00:34 : player: played "IWAN FALS-Orang Pinggiran.mp3"
+Apr 18 00:34 : client: [26] opened from 127.0.0.1:60902
+Apr 18 00:34 : client: [26] closed
+Apr 18 00:34 : client: [27] opened from 127.0.0.1:60906
+Apr 18 00:34 : client: [27] closed
+Apr 18 00:39 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 18 00:49 : client: [22] closed
+Apr 18 00:49 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 18 00:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 00:51 : config: option 'mixer_control' on line 287 was not recognized
+Apr 18 00:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 00:51 : client: [0] opened from 127.0.0.1:33194
+Apr 18 00:51 : client: [1] opened from 127.0.0.1:33198
+Apr 18 00:51 : client: [1] closed
+Apr 18 01:03 : client: [2] opened from 127.0.0.1:33292
+Apr 18 01:03 : client: [2] closed
+Apr 18 01:09 : player: played "iwan fals- Kemesraan.mp3"
+Apr 18 01:09 : client: [3] opened from 127.0.0.1:33298
+Apr 18 01:09 : client: [3] closed
+Apr 18 01:13 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 18 01:13 : client: [4] opened from 127.0.0.1:33416
+Apr 18 01:13 : client: [4] closed
+Apr 18 01:18 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 18 01:18 : client: [5] opened from 127.0.0.1:33580
+Apr 18 01:18 : client: [5] closed
+Apr 18 01:23 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 18 01:23 : client: [6] opened from 127.0.0.1:33598
+Apr 18 01:23 : client: [6] closed
+Apr 18 01:27 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 18 01:27 : client: [7] opened from 127.0.0.1:33618
+Apr 18 01:27 : client: [7] closed
+Apr 18 01:31 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 18 01:31 : client: [8] opened from 127.0.0.1:33638
+Apr 18 01:31 : client: [8] closed
+Apr 18 01:35 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 18 01:35 : client: [9] opened from 127.0.0.1:33670
+Apr 18 01:35 : client: [9] closed
+Apr 18 01:39 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 18 01:39 : client: [10] opened from 127.0.0.1:33676
+Apr 18 01:39 : client: [10] closed
+Apr 18 01:45 : player: played "IWAN FALS-Belalang Tua.mp3"
+Apr 18 01:45 : client: [11] opened from 127.0.0.1:33708
+Apr 18 01:45 : client: [11] closed
+Apr 18 01:49 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 18 01:49 : client: [12] opened from 127.0.0.1:33738
+Apr 18 01:49 : client: [12] closed
+Apr 18 01:53 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 18 01:53 : client: [13] opened from 127.0.0.1:34002
+Apr 18 01:53 : client: [13] closed
+Apr 18 02:00 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 18 02:00 : client: [14] opened from 127.0.0.1:34344
+Apr 18 02:00 : client: [14] closed
+Apr 18 02:05 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 18 02:05 : client: [15] opened from 127.0.0.1:34596
+Apr 18 02:05 : client: [15] closed
+Apr 18 02:09 : player: played "IWAN FALS-Bung Hatta.mp3"
+Apr 18 02:09 : client: [16] opened from 127.0.0.1:34824
+Apr 18 02:09 : client: [16] closed
+Apr 18 02:14 : player: played "IWAN FALS-Cemburu.MP3"
+Apr 18 02:19 : player: played "IWAN FALS-Condet.mp3"
+Apr 18 02:19 : client: [17] opened from 127.0.0.1:35968
+Apr 18 02:19 : client: [17] closed
+Apr 18 02:22 : player: played "IWAN FALS-Coretan Dinding.mp3"
+Apr 18 02:22 : client: [18] opened from 127.0.0.1:36128
+Apr 18 02:22 : client: [18] closed
+Apr 18 02:25 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 18 02:25 : client: [19] opened from 127.0.0.1:36150
+Apr 18 02:25 : client: [19] closed
+Apr 18 02:32 : player: played "IWAN FALS-Dongeng Sebelum Tidur.mp3"
+Apr 18 02:32 : client: [20] opened from 127.0.0.1:36528
+Apr 18 02:32 : client: [20] closed
+Apr 18 02:36 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 18 02:36 : client: [21] opened from 127.0.0.1:36862
+Apr 18 02:36 : client: [21] closed
+Apr 18 02:39 : client: [0] closed
+Apr 18 02:39 : player: played "IWAN FALS-Entah.mp3"
+Apr 18 14:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 14:36 : config: option 'mixer_control' on line 287 was not recognized
+Apr 18 14:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 14:36 : client: [0] opened from 127.0.0.1:43686
+Apr 18 14:36 : client: [1] opened from 127.0.0.1:43690
+Apr 18 14:36 : client: [1] closed
+Apr 18 14:37 : client: [2] opened from 127.0.0.1:43694
+Apr 18 14:37 : client: [2] closed
+Apr 18 15:30 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 18 15:30 : client: [3] opened from 127.0.0.1:44860
+Apr 18 15:30 : client: [3] closed
+Apr 18 15:33 : client: [0] closed
+Apr 18 15:33 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 22 15:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 15:22 : config: option 'mixer_control' on line 287 was not recognized
+Apr 22 15:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 15:22 : client: [0] opened from 127.0.0.1:38030
+Apr 22 15:22 : client: [1] opened from 127.0.0.1:38032
+Apr 22 15:22 : client: [1] closed
+Apr 22 15:25 : client: [0] closed
+Apr 22 15:25 : client: [2] opened from 127.0.0.1:38116
+Apr 22 15:25 : client: [3] opened from 127.0.0.1:38118
+Apr 22 15:25 : client: [3] closed
+Apr 22 16:01 : client: [2] closed
+Apr 22 16:01 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 22 23:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 23:07 : config: option 'mixer_control' on line 287 was not recognized
+Apr 22 23:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 23:07 : client: [0] opened from 127.0.0.1:41962
+Apr 22 23:07 : client: [1] opened from 127.0.0.1:41964
+Apr 22 23:07 : client: [1] closed
+Apr 22 23:07 : client: [2] opened from 127.0.0.1:41966
+Apr 22 23:07 : client: [2] closed
+Apr 22 23:12 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 22 23:12 : client: [3] opened from 127.0.0.1:42024
+Apr 22 23:12 : client: [3] closed
+Apr 22 23:51 : client: [4] opened from 127.0.0.1:43106
+Apr 22 23:51 : client: [4] closed
+Apr 23 00:34 : client: [0] closed
+Apr 23 00:34 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 23 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 00:36 : config: option 'mixer_control' on line 287 was not recognized
+Apr 23 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 00:36 : client: [0] opened from 127.0.0.1:43336
+Apr 23 00:36 : client: [1] opened from 127.0.0.1:43338
+Apr 23 00:36 : client: [1] closed
+Apr 23 00:57 : client: [0] closed
+Apr 23 00:57 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 23 16:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 16:56 : config: option 'mixer_control' on line 287 was not recognized
+Apr 23 16:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 17:11 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 23 17:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 17:18 : config: option 'mixer_control' on line 287 was not recognized
+Apr 23 17:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 17:19 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 23 21:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 21:58 : config: option 'mixer_control' on line 287 was not recognized
+Apr 23 21:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 21:58 : client: [0] opened from 127.0.0.1:48212
+Apr 23 21:58 : client: [1] opened from 127.0.0.1:48214
+Apr 23 21:58 : client: [1] closed
+Apr 23 21:58 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 23 21:58 : client: [2] opened from 127.0.0.1:48216
+Apr 23 21:58 : client: [2] closed
+Apr 23 21:58 : client: [3] opened from 127.0.0.1:48218
+Apr 23 21:58 : client: [3] closed
+Apr 23 21:59 : client: [4] opened from 127.0.0.1:48220
+Apr 23 21:59 : client: [5] opened from 127.0.0.1:48222
+Apr 23 21:59 : client: [5] closed
+Apr 23 22:00 : client: [4] closed
+Apr 23 22:00 : client: [6] opened from 127.0.0.1:48224
+Apr 23 22:00 : client: [7] opened from 127.0.0.1:48226
+Apr 23 22:00 : client: [7] closed
+Apr 23 22:00 : client: [0] closed
+Apr 23 22:03 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 23 22:03 : client: [8] opened from 127.0.0.1:48234
+Apr 23 22:03 : client: [8] closed
+Apr 23 22:09 : client: [9] opened from 127.0.0.1:48744
+Apr 23 22:09 : client: [9] closed
+Apr 23 22:19 : client: [10] opened from 127.0.0.1:48770
+Apr 23 22:19 : client: [11] opened from 127.0.0.1:48772
+Apr 23 22:19 : client: [11] closed
+Apr 23 22:19 : client: [6] closed
+Apr 23 22:54 : client: [12] opened from 127.0.0.1:49160
+Apr 23 22:54 : client: [12] closed
+Apr 23 22:59 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 23 22:59 : client: [13] opened from 127.0.0.1:49434
+Apr 23 22:59 : client: [13] closed
+Apr 23 23:03 : player: played "IWAN FALS - 22 Januari.mp3"
+Apr 23 23:07 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 23 23:12 : player: played "iwan fals- Kemesraan.mp3"
+Apr 23 23:12 : client: [14] opened from 127.0.0.1:49478
+Apr 23 23:12 : client: [14] closed
+Apr 23 23:17 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 23 23:17 : client: [15] opened from 127.0.0.1:49674
+Apr 23 23:17 : client: [15] closed
+Apr 23 23:22 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 23 23:22 : client: [16] opened from 127.0.0.1:49694
+Apr 23 23:22 : client: [16] closed
+Apr 23 23:27 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 23 23:27 : client: [17] opened from 127.0.0.1:49714
+Apr 23 23:27 : client: [17] closed
+Apr 23 23:30 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 23 23:30 : client: [18] opened from 127.0.0.1:50622
+Apr 23 23:30 : client: [18] closed
+Apr 23 23:35 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 23 23:35 : client: [19] opened from 127.0.0.1:51022
+Apr 23 23:35 : client: [19] closed
+Apr 23 23:39 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 23 23:39 : client: [20] opened from 127.0.0.1:51026
+Apr 23 23:39 : client: [20] closed
+Apr 23 23:43 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 23 23:43 : client: [21] opened from 127.0.0.1:51056
+Apr 23 23:43 : client: [21] closed
+Apr 23 23:49 : player: played "IWAN FALS-Belalang Tua.mp3"
+Apr 23 23:49 : client: [22] opened from 127.0.0.1:51076
+Apr 23 23:49 : client: [22] closed
+Apr 23 23:53 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 23 23:53 : client: [23] opened from 127.0.0.1:51084
+Apr 23 23:53 : client: [23] closed
+Apr 23 23:56 : client: [10] closed
+Apr 23 23:56 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 24 00:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 00:35 : config: option 'mixer_control' on line 287 was not recognized
+Apr 24 00:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 00:35 : client: [0] opened from 127.0.0.1:51540
+Apr 24 00:35 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 24 00:37 : client: [0] closed
+Apr 24 00:37 : client: [1] opened from 127.0.0.1:51542
+Apr 24 00:39 : client: [1] closed
+Apr 24 00:40 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 24 00:41 : client: [2] opened from 127.0.0.1:51560
+Apr 24 00:42 : player: played "IWAN FALS-Bung Hatta.mp3"
+Apr 24 00:43 : client: [2] closed
+Apr 24 00:43 : client: [3] opened from 127.0.0.1:51566
+Apr 24 00:43 : client: [3] closed
+Apr 24 13:19 : config: option 'mixer_control' on line 287 was not recognized
+Apr 24 13:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 13:19 : client: [0] opened from 127.0.0.1:53178
+Apr 24 13:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 13:19 : client: [1] opened from 127.0.0.1:53180
+Apr 24 13:19 : client: [1] closed
+Apr 24 13:19 : client: [2] opened from 127.0.0.1:53182
+Apr 24 13:19 : client: [2] closed
+Apr 24 13:26 : client: [3] opened from 127.0.0.1:53190
+Apr 24 13:26 : client: [3] closed
+Apr 24 13:31 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 24 13:31 : client: [4] opened from 127.0.0.1:53192
+Apr 24 13:31 : client: [4] closed
+Apr 24 13:33 : client: [0] closed
+Apr 24 13:33 : client: [5] opened from 127.0.0.1:53194
+Apr 24 13:33 : client: [6] opened from 127.0.0.1:53196
+Apr 24 13:33 : client: [6] closed
+Apr 24 13:36 : player: played "iwan fals- Kemesraan.mp3"
+Apr 24 13:36 : client: [7] opened from 127.0.0.1:53198
+Apr 24 13:36 : client: [7] closed
+Apr 24 13:41 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 24 13:41 : client: [8] opened from 127.0.0.1:53200
+Apr 24 13:41 : client: [8] closed
+Apr 24 13:46 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 24 13:46 : client: [9] opened from 127.0.0.1:53202
+Apr 24 13:46 : client: [9] closed
+Apr 24 13:51 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 24 13:51 : client: [10] opened from 127.0.0.1:53204
+Apr 24 13:51 : client: [10] closed
+Apr 24 13:54 : player: played "IWAN FALS-Aku Antarkan.mp3"
+Apr 24 13:54 : client: [11] opened from 127.0.0.1:53206
+Apr 24 13:54 : client: [11] closed
+Apr 24 13:58 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+Apr 24 13:58 : client: [12] opened from 127.0.0.1:53208
+Apr 24 13:58 : client: [12] closed
+Apr 24 14:02 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+Apr 24 14:02 : client: [13] opened from 127.0.0.1:53214
+Apr 24 14:02 : client: [13] closed
+Apr 24 14:07 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 24 14:07 : client: [14] opened from 127.0.0.1:53224
+Apr 24 14:07 : client: [14] closed
+Apr 24 14:13 : player: played "IWAN FALS-Belalang Tua.mp3"
+Apr 24 14:13 : client: [15] opened from 127.0.0.1:53230
+Apr 24 14:13 : client: [15] closed
+Apr 24 14:17 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 24 14:17 : client: [16] opened from 127.0.0.1:53238
+Apr 24 14:17 : client: [16] closed
+Apr 24 14:20 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 24 14:20 : client: [17] opened from 127.0.0.1:53248
+Apr 24 14:20 : client: [17] closed
+Apr 24 14:27 : player: played "IWAN FALS-Bongkar.mp3"
+Apr 24 14:27 : client: [18] opened from 127.0.0.1:53254
+Apr 24 14:27 : client: [18] closed
+Apr 24 14:32 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+Apr 24 14:32 : client: [19] opened from 127.0.0.1:53266
+Apr 24 14:32 : client: [19] closed
+Apr 24 14:36 : player: played "IWAN FALS-Bung Hatta.mp3"
+Apr 24 14:36 : client: [20] opened from 127.0.0.1:53274
+Apr 24 14:36 : client: [20] closed
+Apr 24 14:42 : player: played "IWAN FALS-Cemburu.MP3"
+Apr 24 14:42 : client: [21] opened from 127.0.0.1:53378
+Apr 24 14:42 : client: [21] closed
+Apr 24 14:47 : player: played "IWAN FALS-Condet.mp3"
+Apr 24 14:47 : client: [22] opened from 127.0.0.1:53388
+Apr 24 14:47 : client: [22] closed
+Apr 24 14:50 : player: played "IWAN FALS-Coretan Dinding.mp3"
+Apr 24 14:50 : client: [23] opened from 127.0.0.1:53392
+Apr 24 14:50 : client: [23] closed
+Apr 24 14:52 : client: [5] closed
+Apr 24 14:52 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 24 18:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 18:05 : config: option 'mixer_control' on line 287 was not recognized
+Apr 24 18:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 18:05 : client: [0] opened from 127.0.0.1:43978
+Apr 24 18:05 : client: [1] opened from 127.0.0.1:43980
+Apr 24 18:05 : client: [1] closed
+Apr 24 18:06 : player: played "IWAN FALS-Dimata Air Tidak Ada Air Mata.mp3"
+Apr 24 18:06 : client: [2] opened from 127.0.0.1:44010
+Apr 24 18:06 : client: [2] closed
+Apr 24 18:11 : client: [3] opened from 127.0.0.1:44190
+Apr 24 18:11 : client: [4] opened from 127.0.0.1:44192
+Apr 24 18:11 : client: [4] closed
+Apr 24 18:12 : client: [0] closed
+Apr 24 18:13 : player: played "IWAN FALS-Dongeng Sebelum Tidur.mp3"
+Apr 24 18:13 : client: [5] opened from 127.0.0.1:44206
+Apr 24 18:13 : client: [5] closed
+Apr 24 18:16 : client: [3] closed
+Apr 24 18:16 : client: [6] opened from 127.0.0.1:44260
+Apr 24 18:16 : client: [7] opened from 127.0.0.1:44262
+Apr 24 18:16 : client: [7] closed
+Apr 24 18:17 : player: played "IWAN FALS-Engkau Tetap Sahabatku.mp3"
+Apr 24 18:17 : client: [8] opened from 127.0.0.1:44272
+Apr 24 18:17 : client: [8] closed
+Apr 24 18:17 : client: [9] opened from 127.0.0.1:44298
+Apr 24 18:17 : client: [10] opened from 127.0.0.1:44300
+Apr 24 18:17 : client: [10] closed
+Apr 24 18:17 : client: [9] closed
+Apr 24 18:20 : client: [6] closed
+Apr 24 18:20 : player: played "IWAN FALS-Entah.mp3"
+Apr 24 23:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 23:46 : config: option 'mixer_control' on line 287 was not recognized
+Apr 24 23:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 23:46 : client: [0] opened from 127.0.0.1:52778
+Apr 24 23:47 : client: [0] closed
+Apr 24 23:47 : player: played "IWAN FALS-Entah.mp3"
+Apr 24 23:50 : client: [1] opened from 127.0.0.1:52880
+Apr 24 23:51 : client: [1] closed
+Apr 24 23:52 : player: played "IWAN FALS-Esek-Esek Uduk-Uduk.mp3"
+Apr 24 23:58 : player: played "IWAN FALS-Ethiopia.mp3"
+Apr 25 00:02 : player: played "IWAN FALS-Galang Rambu Anarki.mp3"
+Apr 25 00:07 : player: played "IWAN FALS-Guru Oemar Bakri.mp3"
+Apr 25 00:11 : player: played "IWAN FALS-Hadapi Saja (Edit Version).mp3"
+Apr 25 00:14 : player: played "IWAN FALS-Ibu.mp3"
+Apr 25 00:19 : player: played "IWAN FALS-Ijinkan Aku Menyayangimu.mp3"
+Apr 25 00:23 : player: played "IWAN FALS-Ini Bukan Mimpi.MP3"
+Apr 25 00:27 : player: played "IWAN FALS-Isi Rimba.mp3"
+Apr 25 00:34 : player: played "IWAN FALS-Jangan Bicara.mp3"
+Apr 25 00:37 : player: played "IWAN FALS-Jendela Kelas Satu.mp3"
+Apr 25 00:41 : player: played "IWAN FALS-Kereta Tiba Pukul Berapa.mp3"
+Apr 25 00:45 : player: played "IWAN FALS-Kisah Sepeda Motorku.mp3"
+Apr 25 00:50 : player: played "IWAN FALS-Kupu-Kupu Hitam Putih.mp3"
+Apr 25 00:54 : player: played "IWAN FALS-Maaf Cintaku.mp3"
+Apr 25 00:57 : client: [2] opened from 127.0.0.1:60662
+Apr 25 00:57 : player: played "IWAN FALS-Masih Bisa Cinta.MP3"
+Apr 25 00:58 : client: [2] closed
+Apr 25 20:44 : config: option 'mixer_control' on line 287 was not recognized
+Apr 25 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 25 20:45 : client: [0] opened from 127.0.0.1:44980
+Apr 25 20:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 25 20:45 : client: [1] opened from 127.0.0.1:44982
+Apr 25 20:45 : client: [1] closed
+Apr 25 20:45 : client: [0] closed
+Apr 25 20:49 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 25 21:02 : client: [2] opened from 127.0.0.1:45062
+Apr 25 21:04 : client: [2] closed
+Apr 25 21:43 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 25 22:26 : client: [3] opened from 127.0.0.1:48772
+Apr 25 22:27 : client: [3] closed
+Apr 25 23:03 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 25 23:07 : player: played "Because of You - Kelly Clarkson.mp4"
+Apr 25 23:12 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 25 23:16 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 25 23:21 : player: played "iwan fals- Kemesraan.mp3"
+Apr 25 23:26 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 25 23:31 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 25 23:33 : client: [4] opened from 127.0.0.1:49974
+Apr 25 23:33 : player: played "IWAN FALS-Air Mata Api.mp3"
+Apr 26 16:19 : config: option 'mixer_control' on line 287 was not recognized
+Apr 26 16:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 16:19 : client: [0] opened from 127.0.0.1:47216
+Apr 26 16:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 16:19 : client: [1] opened from 127.0.0.1:47218
+Apr 26 16:19 : client: [1] closed
+Apr 26 16:21 : client: [0] closed
+Apr 26 16:21 : client: [2] opened from 127.0.0.1:47238
+Apr 26 16:21 : client: [3] opened from 127.0.0.1:47240
+Apr 26 16:21 : client: [3] closed
+Apr 26 16:22 : client: [2] closed
+Apr 26 16:22 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 26 22:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 22:47 : config: option 'mixer_control' on line 287 was not recognized
+Apr 26 22:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 22:47 : client: [0] opened from 127.0.0.1:33860
+Apr 26 22:47 : client: [1] opened from 127.0.0.1:33862
+Apr 26 22:47 : client: [1] closed
+Apr 26 22:47 : client: [2] opened from 127.0.0.1:33864
+Apr 26 22:47 : client: [3] opened from 127.0.0.1:33866
+Apr 26 22:47 : client: [3] closed
+Apr 26 22:48 : client: [0] closed
+Apr 26 22:49 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 26 22:53 : client: [4] opened from 127.0.0.1:34458
+Apr 26 22:53 : client: [5] opened from 127.0.0.1:34460
+Apr 26 22:53 : client: [5] closed
+Apr 26 22:54 : client: [2] closed
+Apr 26 23:42 : client: [4] closed
+Apr 26 23:42 : client: [6] opened from 127.0.0.1:34944
+Apr 26 23:42 : client: [7] opened from 127.0.0.1:34946
+Apr 26 23:42 : client: [7] closed
+Apr 26 23:42 : client: [6] closed
+Apr 26 23:42 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 26 23:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 23:42 : config: option 'mixer_control' on line 287 was not recognized
+Apr 26 23:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 23:42 : client: [0] opened from 127.0.0.1:34948
+Apr 26 23:42 : client: [1] opened from 127.0.0.1:34950
+Apr 26 23:42 : client: [1] closed
+Apr 26 23:43 : client: [2] opened from 127.0.0.1:34952
+Apr 27 00:03 : client: [2] closed
+Apr 27 00:03 : client: [3] opened from 127.0.0.1:34962
+Apr 27 00:35 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 27 00:35 : client: [4] opened from 127.0.0.1:35124
+Apr 27 00:35 : client: [4] closed
+Apr 27 01:07 : client: [0] closed
+Apr 27 01:08 : client: [5] opened from 127.0.0.1:35268
+Apr 27 01:08 : client: [6] opened from 127.0.0.1:35270
+Apr 27 01:08 : client: [6] closed
+Apr 27 01:35 : client: [5] closed
+Apr 27 01:35 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 27 13:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 13:37 : config: option 'mixer_control' on line 287 was not recognized
+Apr 27 13:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 13:37 : client: [0] opened from 127.0.0.1:53434
+Apr 27 13:37 : client: [1] opened from 127.0.0.1:53436
+Apr 27 13:37 : client: [1] closed
+Apr 27 13:37 : client: [0] closed
+Apr 27 13:37 : client: [2] opened from 127.0.0.1:53438
+Apr 27 13:37 : client: [3] opened from 127.0.0.1:53440
+Apr 27 13:37 : client: [3] closed
+Apr 27 13:58 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 27 13:58 : client: [4] opened from 127.0.0.1:53728
+Apr 27 13:58 : client: [4] closed
+Apr 27 14:01 : player: played "Because of You - Kelly Clarkson.mp4"
+Apr 27 14:01 : client: [5] opened from 127.0.0.1:53760
+Apr 27 14:01 : client: [5] closed
+Apr 27 14:04 : client: [6] opened from 127.0.0.1:53828
+Apr 27 14:04 : client: [7] opened from 127.0.0.1:53830
+Apr 27 14:04 : client: [7] closed
+Apr 27 14:04 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 27 14:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 14:04 : config: option 'mixer_control' on line 287 was not recognized
+Apr 27 14:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 14:05 : client: [0] opened from 127.0.0.1:53840
+Apr 27 14:05 : client: [1] opened from 127.0.0.1:53842
+Apr 27 14:05 : client: [1] closed
+Apr 27 14:05 : client: [2] opened from 127.0.0.1:53846
+Apr 27 14:05 : client: [3] opened from 127.0.0.1:53868
+Apr 27 14:05 : client: [3] closed
+Apr 27 14:58 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 27 14:58 : client: [4] opened from 127.0.0.1:54146
+Apr 27 14:58 : client: [4] closed
+Apr 27 16:19 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 27 16:19 : client: [5] opened from 127.0.0.1:55080
+Apr 27 16:19 : client: [5] closed
+Apr 27 16:22 : player: played "Because of You - Kelly Clarkson.mp4"
+Apr 27 16:22 : client: [6] opened from 127.0.0.1:55094
+Apr 27 16:22 : client: [6] closed
+Apr 27 16:27 : player: played "From This Moment On - Shania Twain - Lyrics (Terjemahan Indonesia).mp4"
+Apr 27 16:27 : client: [7] opened from 127.0.0.1:55152
+Apr 27 16:27 : client: [7] closed
+Apr 27 16:32 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 27 16:37 : player: played "iwan fals- Kemesraan.mp3"
+Apr 27 16:37 : client: [8] opened from 127.0.0.1:55188
+Apr 27 16:37 : client: [8] closed
+Apr 27 16:42 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 27 16:42 : client: [9] opened from 127.0.0.1:55198
+Apr 27 16:42 : client: [9] closed
+Apr 27 16:42 : client: [0] closed
+Apr 27 16:42 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+Apr 28 12:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 28 12:52 : config: option 'mixer_control' on line 287 was not recognized
+Apr 28 12:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 28 12:52 : client: [0] opened from 127.0.0.1:42016
+Apr 28 12:52 : client: [1] opened from 127.0.0.1:42018
+Apr 28 12:52 : client: [1] closed
+Apr 28 12:52 : client: [2] opened from 127.0.0.1:42020
+Apr 28 12:52 : client: [2] closed
+Apr 28 12:56 : player: played "Avril Lavigne - Innocence.mp4"
+Apr 28 22:24 : client: [3] opened from 127.0.0.1:42368
+Apr 28 22:50 : player: played "40 Lagu Barat  2018 Hit Cover.mp3"
+Apr 28 22:50 : client: [4] opened from 127.0.0.1:43480
+Apr 28 22:50 : client: [4] closed
+Apr 29 00:08 : client: [0] closed
+Apr 29 00:08 : player: played "40 LAGU BARAT 2018.mp3"
+Apr 29 03:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 03:15 : config: option 'mixer_control' on line 287 was not recognized
+Apr 29 03:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 03:15 : client: [0] opened from 127.0.0.1:34542
+Apr 29 03:15 : client: [1] opened from 127.0.0.1:34544
+Apr 29 03:15 : client: [2] opened from 127.0.0.1:34546
+Apr 29 03:15 : client: [2] closed
+Apr 29 03:15 : client: [3] opened from 127.0.0.1:34548
+Apr 29 03:15 : client: [3] closed
+Apr 29 03:19 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+Apr 29 03:19 : client: [4] opened from 127.0.0.1:34558
+Apr 29 03:19 : client: [4] closed
+Apr 29 03:25 : client: [1] closed
+Apr 29 03:25 : player: played "IWAN FALS-Belalang Tua.mp3"
+Apr 29 03:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 03:42 : config: option 'mixer_control' on line 287 was not recognized
+Apr 29 03:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 03:42 : client: [0] opened from 127.0.0.1:35606
+Apr 29 03:42 : client: [1] opened from 127.0.0.1:35608
+Apr 29 03:42 : client: [2] opened from 127.0.0.1:35610
+Apr 29 03:42 : client: [2] closed
+Apr 29 03:42 : player: played "IWAN FALS-Belalang Tua.mp3"
+Apr 29 03:42 : client: [3] opened from 127.0.0.1:35612
+Apr 29 03:42 : client: [3] closed
+Apr 29 03:45 : client: [1] closed
+Apr 29 03:45 : client: [4] opened from 127.0.0.1:35614
+Apr 29 03:45 : client: [5] opened from 127.0.0.1:35616
+Apr 29 03:45 : client: [5] closed
+Apr 29 03:45 : client: [4] closed
+Apr 29 03:45 : client: [6] opened from 127.0.0.1:35618
+Apr 29 03:45 : client: [7] opened from 127.0.0.1:35620
+Apr 29 03:45 : client: [7] closed
+Apr 29 03:46 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+Apr 29 03:46 : client: [8] opened from 127.0.0.1:35622
+Apr 29 03:46 : client: [8] closed
+Apr 29 03:46 : client: [6] closed
+Apr 29 03:46 : client: [9] opened from 127.0.0.1:35624
+Apr 29 03:46 : client: [10] opened from 127.0.0.1:35626
+Apr 29 03:46 : client: [10] closed
+Apr 29 03:47 : client: [9] closed
+Apr 29 03:47 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 29 17:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 17:07 : config: option 'mixer_control' on line 287 was not recognized
+Apr 29 17:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 17:07 : client: [0] opened from 127.0.0.1:54410
+Apr 29 17:07 : client: [1] opened from 127.0.0.1:54412
+Apr 29 17:07 : client: [2] opened from 127.0.0.1:54414
+Apr 29 17:07 : client: [2] closed
+Apr 29 17:09 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+Apr 29 17:09 : client: [3] opened from 127.0.0.1:54416
+Apr 29 17:09 : client: [3] closed
+Apr 29 17:10 : client: [4] opened from 127.0.0.1:54418
+Apr 29 17:10 : client: [4] closed
+Apr 29 17:14 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+Apr 29 17:20 : player: played "iwan fals- Kemesraan.mp3"
+Apr 29 17:20 : client: [5] opened from 127.0.0.1:54548
+Apr 29 17:20 : client: [5] closed
+Apr 29 17:21 : client: [1] closed
+Apr 29 17:21 : player: played "iwan fals- Yang Terlupakan.mp3"
+Apr 29 18:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 18:34 : config: option 'mixer_control' on line 287 was not recognized
+Apr 29 18:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 18:34 : client: [0] opened from 127.0.0.1:41944
+Apr 29 18:35 : client: [1] opened from 127.0.0.1:41946
+Apr 29 18:35 : client: [2] opened from 127.0.0.1:41948
+Apr 29 18:35 : client: [2] closed
+Apr 29 18:35 : update: added /Mitha Talahatu - Beta Sandiri (Official Music Video) - YouTube.mp4
+Apr 29 18:35 : update: added /Nada Latuharhary - Jujur Saja (Official Music Video) - YouTube.mp4
+Apr 29 18:35 : update: added /Bule Nyanyi Lagu Nasi Padang.mp4
+Apr 29 18:35 : update: added /MONA LATUMAHINA - PALENG BAE (Official Music Video).mp4
+Apr 29 18:35 : client: [3] opened from 127.0.0.1:41952
+Apr 29 18:35 : client: [3] closed
+Apr 29 18:35 : client: [4] opened from 127.0.0.1:41954
+Apr 29 18:35 : client: [4] closed
+Apr 29 18:35 : client: [5] opened from 127.0.0.1:41956
+Apr 29 18:35 : client: [5] closed
+Apr 29 18:35 : client: [6] opened from 127.0.0.1:41958
+Apr 29 18:35 : client: [6] closed
+Apr 29 18:36 : client: [7] opened from 127.0.0.1:41960
+Apr 29 18:36 : client: [8] opened from 127.0.0.1:41962
+Apr 29 18:36 : client: [8] closed
+Apr 29 18:36 : client: [7] closed
+Apr 29 18:36 : client: [1] closed
+Apr 29 18:36 : client: [9] opened from 127.0.0.1:41964
+Apr 29 18:36 : client: [10] opened from 127.0.0.1:41966
+Apr 29 18:36 : client: [10] closed
+Apr 29 18:36 : client: [11] opened from 127.0.0.1:41968
+Apr 29 18:36 : client: [11] closed
+Apr 29 18:38 : client: [9] closed
+Apr 29 18:38 : client: [12] opened from 127.0.0.1:41970
+Apr 29 18:38 : client: [13] opened from 127.0.0.1:41972
+Apr 29 18:38 : client: [13] closed
+Apr 29 18:38 : client: [12] closed
+Apr 29 18:38 : client: [14] opened from 127.0.0.1:41976
+Apr 29 18:38 : client: [15] opened from 127.0.0.1:41978
+Apr 29 18:38 : client: [15] closed
+Apr 29 18:39 : client: [14] closed
+Apr 29 18:40 : client: [16] opened from 127.0.0.1:41982
+Apr 29 18:40 : client: [17] opened from 127.0.0.1:41984
+Apr 29 18:40 : client: [17] closed
+Apr 29 18:40 : client: [16] closed
+Apr 29 18:40 : client: [18] opened from 127.0.0.1:41986
+Apr 29 18:40 : client: [19] opened from 127.0.0.1:41988
+Apr 29 18:40 : client: [19] closed
+Apr 29 18:41 : player: played "Mitha Talahatu - Beta Sandiri (Official Music Video) - YouTube.mp4"
+Apr 29 18:41 : client: [20] opened from 127.0.0.1:41990
+Apr 29 18:41 : client: [20] closed
+Apr 29 18:42 : client: [18] closed
+Apr 29 18:43 : client: [21] opened from 127.0.0.1:41992
+Apr 29 18:43 : client: [22] opened from 127.0.0.1:41994
+Apr 29 18:43 : client: [22] closed
+Apr 29 18:44 : client: [23] opened from 127.0.0.1:41996
+Apr 29 18:44 : client: [23] closed
+Apr 29 18:49 : player: played "Mitha Talahatu - Beta Sandiri (Official Music Video) - YouTube.mp4"
+Apr 29 18:49 : client: [24] opened from 127.0.0.1:42000
+Apr 29 18:49 : client: [24] closed
+Apr 29 18:55 : player: played "MONA LATUMAHINA - PALENG BAE (Official Music Video).mp4"
+Apr 29 18:55 : client: [25] opened from 127.0.0.1:42010
+Apr 29 18:55 : client: [25] closed
+Apr 29 19:03 : player: played "Nada Latuharhary - Jujur Saja (Official Music Video) - YouTube.mp4"
+Apr 29 19:17 : client: [26] opened from 127.0.0.1:42038
+Apr 29 19:17 : client: [26] closed
+Apr 29 19:20 : player: played "Bule Nyanyi Lagu Nasi Padang.mp4"
+Apr 29 19:20 : client: [27] opened from 127.0.0.1:42418
+Apr 29 19:20 : client: [27] closed
+Apr 29 19:25 : player: played "Mitha Talahatu - Beta Sandiri (Official Music Video) - YouTube.mp4"
+Apr 29 19:25 : client: [28] opened from 127.0.0.1:42584
+Apr 29 19:25 : client: [28] closed
+Apr 29 19:30 : player: played "MONA LATUMAHINA - PALENG BAE (Official Music Video).mp4"
+Apr 29 19:30 : client: [29] opened from 127.0.0.1:42598
+Apr 29 19:30 : client: [29] closed
+Apr 29 19:35 : player: played "Nada Latuharhary - Jujur Saja (Official Music Video) - YouTube.mp4"
+Apr 29 19:38 : client: [21] closed
+Apr 29 19:40 : client: [30] opened from 127.0.0.1:42618
+Apr 29 19:40 : update: removing Nada Latuharhary - Jujur Saja (Official Music Video) - YouTube.mp4
+Apr 29 19:40 : update: removing MONA LATUMAHINA - PALENG BAE (Official Music Video).mp4
+Apr 29 19:40 : update: removing Mitha Talahatu - Beta Sandiri (Official Music Video) - YouTube.mp4
+Apr 29 19:40 : update: removing Someone Like You - Adele - Lyrics (Terjemahan Indonesia).mp4
+Apr 29 19:40 : update: removing Wish You Were Here - Avril Lavigne - Lyrics - Terjemahan Indonesia.mp4
+Apr 29 19:40 : update: removing You're Still The One - Shania Twain - Lyrics Animation (Terjemahan Indonesia).mp4
+Apr 29 19:40 : update: added /Nada Latuharhary - Jujur Saja.mp4
+Apr 29 19:40 : update: added /You're Still The One - Shania Twain.mp4
+Apr 29 19:40 : update: added /Mitha Talahatu - Beta Sandiri.mp4
+Apr 29 19:40 : update: added /Someone Like You - Adele.mp4
+Apr 29 19:40 : update: added /MONA LATUMAHINA - PALENG BAE.mp4
+Apr 29 19:40 : update: added /Wish You Were Here - Avril Lavigne.mp4
+Apr 29 19:41 : client: [31] opened from 127.0.0.1:42624
+Apr 29 19:41 : client: [31] closed
+Apr 29 19:41 : client: [32] opened from 127.0.0.1:42626
+Apr 29 19:41 : client: [32] closed
+Apr 29 19:41 : client: [33] opened from 127.0.0.1:42628
+Apr 29 19:41 : client: [33] closed
+Apr 29 19:41 : client: [34] opened from 127.0.0.1:42630
+Apr 29 19:41 : client: [34] closed
+Apr 29 19:41 : client: [35] opened from 127.0.0.1:42632
+Apr 29 19:41 : client: [35] closed
+Apr 29 19:41 : client: [36] opened from 127.0.0.1:42634
+Apr 29 19:41 : client: [36] closed
+Apr 29 19:41 : client: [37] opened from 127.0.0.1:42636
+Apr 29 19:41 : client: [37] closed
+Apr 29 19:42 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+Apr 29 19:42 : client: [38] opened from 127.0.0.1:42638
+Apr 29 19:42 : client: [38] closed
+Apr 29 19:42 : client: [39] opened from 127.0.0.1:42640
+Apr 29 19:42 : client: [39] closed
+Apr 29 19:42 : client: [40] opened from 127.0.0.1:42642
+Apr 29 19:42 : client: [40] closed
+Apr 29 19:42 : client: [41] opened from 127.0.0.1:42644
+Apr 29 19:42 : client: [41] closed
+Apr 29 19:42 : client: [42] opened from 127.0.0.1:42646
+Apr 29 19:42 : client: [42] closed
+Apr 29 19:42 : client: [43] opened from 127.0.0.1:42648
+Apr 29 19:42 : client: [43] closed
+Apr 29 19:42 : client: [44] opened from 127.0.0.1:42650
+Apr 29 19:42 : client: [44] closed
+Apr 29 19:42 : client: [30] closed
+Apr 29 19:42 : client: [45] opened from 127.0.0.1:42652
+Apr 29 19:42 : client: [46] opened from 127.0.0.1:42654
+Apr 29 19:42 : client: [46] closed
+Apr 29 19:47 : client: [47] opened from 127.0.0.1:42660
+Apr 29 19:47 : client: [48] opened from 127.0.0.1:42662
+Apr 29 19:47 : client: [48] closed
+Apr 29 19:47 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+Apr 29 19:47 : client: [49] opened from 127.0.0.1:42664
+Apr 29 19:47 : client: [50] opened from 127.0.0.1:42666
+Apr 29 19:47 : client: [49] closed
+Apr 29 19:47 : client: [50] closed
+Apr 29 19:53 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+Apr 29 19:53 : client: [51] opened from 127.0.0.1:42668
+Apr 29 19:53 : client: [52] opened from 127.0.0.1:42670
+Apr 29 19:53 : client: [51] closed
+Apr 29 19:53 : client: [52] closed
+Apr 29 19:57 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+Apr 29 19:57 : client: [53] opened from 127.0.0.1:42688
+Apr 29 19:57 : client: [54] opened from 127.0.0.1:42690
+Apr 29 19:57 : client: [53] closed
+Apr 29 19:57 : client: [54] closed
+Apr 29 20:02 : player: played "Someone Like You - Adele.mp4"
+Apr 29 20:02 : client: [55] opened from 127.0.0.1:42704
+Apr 29 20:02 : client: [56] opened from 127.0.0.1:42706
+Apr 29 20:02 : client: [55] closed
+Apr 29 20:02 : client: [56] closed
+Apr 29 20:06 : client: [47] closed
+Apr 29 20:06 : client: [45] closed
+Apr 29 20:06 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+Apr 29 22:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 22:48 : config: option 'mixer_control' on line 287 was not recognized
+Apr 29 22:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 22:49 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+Apr 29 22:49 : client: [0] opened from 127.0.0.1:46576
+Apr 29 22:49 : client: [1] opened from 127.0.0.1:46578
+Apr 29 22:49 : client: [1] closed
+Apr 29 22:50 : client: [2] opened from 127.0.0.1:46676
+Apr 29 22:52 : player: played "You're Still The One - Shania Twain.mp4"
+Apr 29 22:53 : client: [0] closed
+Apr 29 22:53 : client: [3] opened from 127.0.0.1:46754
+Apr 29 22:53 : client: [4] opened from 127.0.0.1:46756
+Apr 29 22:53 : client: [4] closed
+Apr 29 22:58 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+Apr 29 22:58 : client: [5] opened from 127.0.0.1:46788
+Apr 29 22:58 : client: [5] closed
+Apr 29 23:03 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+Apr 29 23:03 : client: [6] opened from 127.0.0.1:47028
+Apr 29 23:03 : client: [6] closed
+Apr 29 23:08 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+Apr 29 23:08 : client: [7] opened from 127.0.0.1:47032
+Apr 29 23:08 : client: [7] closed
+Apr 29 23:12 : client: [3] closed
+Apr 29 23:12 : player: played "Someone Like You - Adele.mp4"
+May 01 15:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 15:00 : config: option 'mixer_control' on line 287 was not recognized
+May 01 15:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 15:00 : client: [0] opened from 127.0.0.1:33302
+May 01 15:00 : client: [1] opened from 127.0.0.1:33304
+May 01 15:00 : client: [2] opened from 127.0.0.1:33306
+May 01 15:00 : client: [2] closed
+May 01 15:00 : client: [3] opened from 127.0.0.1:33308
+May 01 15:00 : client: [3] closed
+May 01 15:01 : client: [4] opened from 127.0.0.1:33310
+May 01 15:01 : client: [5] opened from 127.0.0.1:33312
+May 01 15:01 : client: [5] closed
+May 01 15:02 : client: [1] closed
+May 01 15:05 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 01 15:05 : client: [6] opened from 127.0.0.1:33372
+May 01 15:05 : client: [6] closed
+May 01 15:11 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 01 15:11 : client: [7] opened from 127.0.0.1:33418
+May 01 15:11 : client: [7] closed
+May 01 15:15 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 01 15:15 : client: [8] opened from 127.0.0.1:33420
+May 01 15:15 : client: [8] closed
+May 01 15:21 : player: played "Someone Like You - Adele.mp4"
+May 01 15:21 : client: [9] opened from 127.0.0.1:33422
+May 01 15:21 : client: [9] closed
+May 01 15:24 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+May 01 15:24 : client: [10] opened from 127.0.0.1:33424
+May 01 15:24 : client: [10] closed
+May 01 15:28 : player: played "You're Still The One - Shania Twain.mp4"
+May 01 15:34 : client: [4] closed
+May 01 15:34 : client: [11] opened from 127.0.0.1:33426
+May 01 15:34 : client: [12] opened from 127.0.0.1:33428
+May 01 15:34 : client: [12] closed
+May 01 15:34 : client: [13] opened from 127.0.0.1:33430
+May 01 15:34 : client: [14] opened from 127.0.0.1:33432
+May 01 15:34 : client: [14] closed
+May 01 15:34 : client: [13] closed
+May 01 15:39 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 01 15:39 : client: [15] opened from 127.0.0.1:33434
+May 01 15:39 : client: [15] closed
+May 01 15:45 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 01 15:45 : client: [16] opened from 127.0.0.1:33436
+May 01 15:45 : client: [16] closed
+May 01 15:49 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 01 15:49 : client: [17] opened from 127.0.0.1:33438
+May 01 15:49 : client: [17] closed
+May 01 15:51 : client: [11] closed
+May 01 15:51 : player: played "Someone Like You - Adele.mp4"
+May 01 23:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 23:54 : config: option 'mixer_control' on line 287 was not recognized
+May 01 23:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 23:54 : client: [0] opened from 127.0.0.1:36180
+May 01 23:55 : client: [1] opened from 127.0.0.1:36182
+May 01 23:55 : client: [2] opened from 127.0.0.1:36184
+May 01 23:55 : client: [2] closed
+May 01 23:55 : client: [3] opened from 127.0.0.1:36186
+May 01 23:55 : client: [3] closed
+May 02 00:00 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 02 00:00 : client: [4] opened from 127.0.0.1:36188
+May 02 00:00 : client: [4] closed
+May 02 00:05 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 02 00:05 : client: [5] opened from 127.0.0.1:36190
+May 02 00:05 : client: [5] closed
+May 02 00:10 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 02 00:10 : client: [6] opened from 127.0.0.1:36192
+May 02 00:10 : client: [6] closed
+May 02 00:15 : player: played "Someone Like You - Adele.mp4"
+May 02 00:15 : client: [7] opened from 127.0.0.1:36348
+May 02 00:15 : client: [7] closed
+May 02 00:17 : client: [8] opened from 127.0.0.1:36358
+May 02 00:17 : client: [8] closed
+May 02 00:17 : client: [9] opened from 127.0.0.1:36360
+May 02 00:17 : client: [9] closed
+May 02 00:17 : client: [10] opened from 127.0.0.1:36362
+May 02 00:17 : client: [10] closed
+May 02 00:17 : client: [11] opened from 127.0.0.1:36364
+May 02 00:17 : client: [11] closed
+May 02 00:17 : client: [12] opened from 127.0.0.1:36366
+May 02 00:17 : client: [12] closed
+May 02 00:17 : client: [13] opened from 127.0.0.1:36368
+May 02 00:17 : client: [13] closed
+May 02 00:17 : client: [14] opened from 127.0.0.1:36370
+May 02 00:17 : client: [14] closed
+May 02 00:17 : client: [15] opened from 127.0.0.1:36372
+May 02 00:17 : client: [15] closed
+May 02 00:17 : client: [16] opened from 127.0.0.1:36374
+May 02 00:17 : client: [16] closed
+May 02 00:17 : client: [17] opened from 127.0.0.1:36376
+May 02 00:17 : client: [17] closed
+May 02 00:17 : client: [18] opened from 127.0.0.1:36378
+May 02 00:17 : client: [18] closed
+May 02 00:17 : client: [19] opened from 127.0.0.1:36380
+May 02 00:17 : client: [19] closed
+May 02 00:17 : client: [20] opened from 127.0.0.1:36382
+May 02 00:17 : client: [20] closed
+May 02 00:18 : client: [21] opened from 127.0.0.1:36384
+May 02 00:18 : client: [21] closed
+May 02 00:18 : client: [22] opened from 127.0.0.1:36386
+May 02 00:18 : client: [22] closed
+May 02 00:18 : client: [23] opened from 127.0.0.1:36388
+May 02 00:18 : client: [23] closed
+May 02 00:18 : client: [24] opened from 127.0.0.1:36390
+May 02 00:18 : client: [24] closed
+May 02 00:18 : client: [25] opened from 127.0.0.1:36392
+May 02 00:18 : client: [25] closed
+May 02 00:18 : client: [26] opened from 127.0.0.1:36394
+May 02 00:18 : client: [26] closed
+May 02 00:18 : client: [27] opened from 127.0.0.1:36396
+May 02 00:18 : client: [27] closed
+May 02 00:18 : client: [28] opened from 127.0.0.1:36398
+May 02 00:18 : client: [28] closed
+May 02 00:18 : client: [29] opened from 127.0.0.1:36400
+May 02 00:18 : client: [29] closed
+May 02 00:18 : client: [30] opened from 127.0.0.1:36402
+May 02 00:18 : client: [30] closed
+May 02 00:18 : client: [31] opened from 127.0.0.1:36404
+May 02 00:18 : client: [31] closed
+May 02 00:18 : client: [32] opened from 127.0.0.1:36406
+May 02 00:18 : client: [32] closed
+May 02 00:18 : client: [33] opened from 127.0.0.1:36408
+May 02 00:18 : client: [33] closed
+May 02 00:18 : client: [34] opened from 127.0.0.1:36410
+May 02 00:18 : client: [34] closed
+May 02 00:18 : client: [35] opened from 127.0.0.1:36412
+May 02 00:18 : client: [35] closed
+May 02 00:18 : client: [36] opened from 127.0.0.1:36414
+May 02 00:18 : client: [36] closed
+May 02 00:18 : client: [37] opened from 127.0.0.1:36416
+May 02 00:18 : client: [37] closed
+May 02 00:18 : client: [38] opened from 127.0.0.1:36418
+May 02 00:18 : client: [38] closed
+May 02 00:18 : client: [39] opened from 127.0.0.1:36420
+May 02 00:18 : client: [39] closed
+May 02 00:18 : client: [40] opened from 127.0.0.1:36422
+May 02 00:18 : client: [40] closed
+May 02 00:18 : client: [41] opened from 127.0.0.1:36424
+May 02 00:18 : client: [41] closed
+May 02 00:18 : client: [42] opened from 127.0.0.1:36426
+May 02 00:18 : client: [42] closed
+May 02 00:18 : client: [43] opened from 127.0.0.1:36428
+May 02 00:18 : client: [43] closed
+May 02 00:18 : client: [44] opened from 127.0.0.1:36430
+May 02 00:18 : client: [44] closed
+May 02 00:18 : client: [45] opened from 127.0.0.1:36432
+May 02 00:18 : client: [45] closed
+May 02 00:18 : client: [46] opened from 127.0.0.1:36434
+May 02 00:18 : client: [46] closed
+May 02 00:18 : client: [47] opened from 127.0.0.1:36436
+May 02 00:18 : client: [47] closed
+May 02 00:18 : client: [48] opened from 127.0.0.1:36438
+May 02 00:18 : client: [48] closed
+May 02 00:18 : client: [49] opened from 127.0.0.1:36440
+May 02 00:18 : client: [49] closed
+May 02 00:18 : client: [50] opened from 127.0.0.1:36442
+May 02 00:18 : client: [50] closed
+May 02 00:18 : client: [51] opened from 127.0.0.1:36444
+May 02 00:18 : client: [51] closed
+May 02 00:19 : client: [52] opened from 127.0.0.1:36446
+May 02 00:19 : client: [52] closed
+May 02 00:19 : client: [53] opened from 127.0.0.1:36448
+May 02 00:19 : client: [53] closed
+May 02 00:19 : client: [54] opened from 127.0.0.1:36450
+May 02 00:19 : client: [54] closed
+May 02 00:19 : client: [55] opened from 127.0.0.1:36452
+May 02 00:19 : client: [55] closed
+May 02 00:19 : client: [56] opened from 127.0.0.1:36454
+May 02 00:19 : client: [56] closed
+May 02 00:19 : client: [57] opened from 127.0.0.1:36456
+May 02 00:19 : client: [57] closed
+May 02 00:20 : client: [58] opened from 127.0.0.1:36458
+May 02 00:20 : client: [59] opened from 127.0.0.1:36460
+May 02 00:20 : client: [59] closed
+May 02 00:24 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 02 00:24 : client: [60] opened from 127.0.0.1:36464
+May 02 00:24 : client: [61] opened from 127.0.0.1:36466
+May 02 00:24 : client: [60] closed
+May 02 00:24 : client: [61] closed
+May 02 00:30 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 02 00:30 : client: [62] opened from 127.0.0.1:36468
+May 02 00:30 : client: [62] closed
+May 02 00:30 : client: [63] opened from 127.0.0.1:36470
+May 02 00:30 : client: [63] closed
+May 02 00:34 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 02 00:34 : client: [64] opened from 127.0.0.1:36472
+May 02 00:34 : client: [64] closed
+May 02 00:34 : client: [65] opened from 127.0.0.1:36474
+May 02 00:34 : client: [65] closed
+May 02 00:35 : client: [58] closed
+May 02 00:39 : player: played "Someone Like You - Adele.mp4"
+May 02 00:39 : client: [66] opened from 127.0.0.1:36520
+May 02 00:39 : client: [66] closed
+May 02 00:43 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+May 02 00:43 : client: [67] opened from 127.0.0.1:36544
+May 02 00:43 : client: [67] closed
+May 02 00:47 : player: played "You're Still The One - Shania Twain.mp4"
+May 02 00:47 : client: [68] opened from 127.0.0.1:36556
+May 02 00:47 : client: [68] closed
+May 02 00:50 : player: played "Bule Nyanyi Lagu Nasi Padang.mp4"
+May 02 00:50 : client: [69] opened from 127.0.0.1:36582
+May 02 00:50 : client: [69] closed
+May 02 00:54 : player: played "IWAN FALS - 22 Januari.mp3"
+May 02 00:54 : client: [70] opened from 127.0.0.1:36600
+May 02 00:54 : client: [70] closed
+May 02 00:58 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+May 02 00:58 : client: [71] opened from 127.0.0.1:36616
+May 02 00:58 : client: [71] closed
+May 02 01:03 : player: played "iwan fals- Kemesraan.mp3"
+May 02 01:03 : client: [72] opened from 127.0.0.1:36674
+May 02 01:03 : client: [72] closed
+May 02 01:08 : player: played "iwan fals- Yang Terlupakan.mp3"
+May 02 01:08 : client: [73] opened from 127.0.0.1:36678
+May 02 01:08 : client: [73] closed
+May 02 01:13 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+May 02 01:13 : client: [74] opened from 127.0.0.1:36680
+May 02 01:13 : client: [74] closed
+May 02 01:18 : player: played "IWAN FALS-Air Mata Api.mp3"
+May 02 01:18 : client: [75] opened from 127.0.0.1:36748
+May 02 01:18 : client: [75] closed
+May 02 01:21 : player: played "IWAN FALS-Aku Antarkan.mp3"
+May 02 01:21 : client: [76] opened from 127.0.0.1:36852
+May 02 01:21 : client: [76] closed
+May 02 01:26 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+May 02 01:26 : client: [77] opened from 127.0.0.1:36870
+May 02 01:26 : client: [77] closed
+May 02 01:30 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+May 02 01:30 : client: [78] opened from 127.0.0.1:36892
+May 02 01:30 : client: [78] closed
+May 02 01:34 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+May 02 01:34 : client: [79] opened from 127.0.0.1:36926
+May 02 01:34 : client: [79] closed
+May 02 01:40 : player: played "IWAN FALS-Belalang Tua.mp3"
+May 02 01:40 : client: [80] opened from 127.0.0.1:36998
+May 02 01:40 : client: [80] closed
+May 02 01:44 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+May 02 01:44 : client: [81] opened from 127.0.0.1:37024
+May 02 01:44 : client: [81] closed
+May 02 01:47 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+May 02 01:47 : client: [82] opened from 127.0.0.1:37040
+May 02 01:47 : client: [82] closed
+May 02 01:55 : player: played "IWAN FALS-Bongkar.mp3"
+May 02 01:55 : client: [83] opened from 127.0.0.1:37066
+May 02 01:55 : client: [83] closed
+May 02 01:59 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+May 02 01:59 : client: [84] opened from 127.0.0.1:37106
+May 02 01:59 : client: [84] closed
+May 02 02:03 : player: played "IWAN FALS-Bung Hatta.mp3"
+May 02 02:09 : player: played "IWAN FALS-Cemburu.MP3"
+May 02 02:09 : client: [85] opened from 127.0.0.1:37170
+May 02 02:09 : client: [85] closed
+May 02 02:10 : client: [1] closed
+May 02 02:11 : player: played "IWAN FALS-Coretan Dinding.mp3"
+May 02 23:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 23:23 : config: option 'mixer_control' on line 287 was not recognized
+May 02 23:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 23:24 : client: [0] opened from 127.0.0.1:37660
+May 02 23:24 : client: [1] opened from 127.0.0.1:37662
+May 02 23:24 : client: [1] closed
+May 02 23:24 : client: [2] opened from 127.0.0.1:37664
+May 02 23:24 : client: [2] closed
+May 02 23:29 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 02 23:29 : client: [3] opened from 127.0.0.1:37668
+May 02 23:29 : client: [3] closed
+May 02 23:34 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 02 23:34 : client: [4] opened from 127.0.0.1:37702
+May 02 23:34 : client: [4] closed
+May 02 23:39 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 02 23:39 : client: [5] opened from 127.0.0.1:38124
+May 02 23:39 : client: [5] closed
+May 02 23:44 : player: played "Someone Like You - Adele.mp4"
+May 02 23:44 : client: [6] opened from 127.0.0.1:38196
+May 02 23:44 : client: [6] closed
+May 02 23:48 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+May 02 23:48 : client: [7] opened from 127.0.0.1:38200
+May 02 23:48 : client: [7] closed
+May 02 23:52 : player: played "You're Still The One - Shania Twain.mp4"
+May 02 23:52 : client: [8] opened from 127.0.0.1:38202
+May 02 23:52 : client: [8] closed
+May 02 23:55 : player: played "Bule Nyanyi Lagu Nasi Padang.mp4"
+May 02 23:58 : player: played "IWAN FALS - 22 Januari.mp3"
+May 02 23:58 : client: [9] opened from 127.0.0.1:38212
+May 02 23:58 : client: [9] closed
+May 03 00:03 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+May 03 00:08 : player: played "iwan fals- Kemesraan.mp3"
+May 03 00:08 : client: [10] opened from 127.0.0.1:38218
+May 03 00:08 : client: [10] closed
+May 03 00:13 : player: played "iwan fals- Yang Terlupakan.mp3"
+May 03 00:13 : client: [11] opened from 127.0.0.1:38230
+May 03 00:13 : client: [11] closed
+May 03 00:18 : player: played "IWAN FALS-Ada Lagi Yang Mati.mp3"
+May 03 00:18 : client: [12] opened from 127.0.0.1:38234
+May 03 00:18 : client: [12] closed
+May 03 00:23 : player: played "IWAN FALS-Air Mata Api.mp3"
+May 03 00:23 : client: [13] opened from 127.0.0.1:38254
+May 03 00:23 : client: [13] closed
+May 03 00:26 : player: played "IWAN FALS-Aku Antarkan.mp3"
+May 03 00:26 : client: [14] opened from 127.0.0.1:38258
+May 03 00:26 : client: [14] closed
+May 03 00:27 : client: [15] opened from 127.0.0.1:38260
+May 03 00:30 : player: played "IWAN FALS-Aku Bukan Pilihan.mp3"
+May 03 00:30 : client: [16] opened from 127.0.0.1:38262
+May 03 00:30 : client: [16] closed
+May 03 00:34 : player: played "IWAN FALS-Antara Aku Dan Bekas Pacarmu.mp3"
+May 03 00:34 : client: [17] opened from 127.0.0.1:38264
+May 03 00:34 : client: [17] closed
+May 03 00:39 : player: played "IWAN FALS-Balada Orang-Orang Pedalaman.mp3"
+May 03 00:39 : client: [18] opened from 127.0.0.1:38274
+May 03 00:39 : client: [18] closed
+May 03 00:45 : player: played "IWAN FALS-Belalang Tua.mp3"
+May 03 00:45 : client: [19] opened from 127.0.0.1:38278
+May 03 00:45 : client: [19] closed
+May 03 00:49 : player: played "IWAN FALS-Belum Ada Judul.mp3"
+May 03 00:49 : client: [20] opened from 127.0.0.1:38282
+May 03 00:49 : client: [20] closed
+May 03 00:52 : player: played "IWAN FALS-Berkacalah Jakarta.mp3"
+May 03 00:52 : client: [21] opened from 127.0.0.1:38284
+May 03 00:52 : client: [21] closed
+May 03 00:59 : player: played "IWAN FALS-Bongkar.mp3"
+May 03 00:59 : client: [22] opened from 127.0.0.1:38290
+May 03 00:59 : client: [22] closed
+May 03 01:04 : player: played "IWAN FALS-Buku Ini Aku Pinjam.mp3"
+May 03 01:04 : client: [23] opened from 127.0.0.1:38292
+May 03 01:04 : client: [23] closed
+May 03 01:08 : player: played "IWAN FALS-Bung Hatta.mp3"
+May 03 01:08 : client: [24] opened from 127.0.0.1:38298
+May 03 01:08 : client: [24] closed
+May 03 01:14 : player: played "IWAN FALS-Cemburu.MP3"
+May 03 01:14 : client: [25] opened from 127.0.0.1:38302
+May 03 01:14 : client: [25] closed
+May 03 01:14 : client: [26] opened from 127.0.0.1:38306
+May 03 01:14 : client: [26] closed
+May 03 01:19 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 03 01:19 : client: [27] opened from 127.0.0.1:38312
+May 03 01:19 : client: [27] closed
+May 03 01:25 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 03 01:25 : client: [28] opened from 127.0.0.1:38356
+May 03 01:25 : client: [28] closed
+May 03 01:29 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 03 01:29 : client: [29] opened from 127.0.0.1:38362
+May 03 01:29 : client: [29] closed
+May 03 01:34 : player: played "Someone Like You - Adele.mp4"
+May 03 01:34 : client: [30] opened from 127.0.0.1:38364
+May 03 01:34 : client: [30] closed
+May 03 01:38 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+May 03 01:38 : client: [31] opened from 127.0.0.1:38366
+May 03 01:38 : client: [31] closed
+May 03 01:42 : player: played "You're Still The One - Shania Twain.mp4"
+May 03 01:42 : client: [32] opened from 127.0.0.1:38368
+May 03 01:42 : client: [32] closed
+May 03 01:45 : player: played "Bule Nyanyi Lagu Nasi Padang.mp4"
+May 03 01:45 : client: [33] opened from 127.0.0.1:38370
+May 03 01:45 : client: [33] closed
+May 03 01:49 : player: played "IWAN FALS - 22 Januari.mp3"
+May 03 01:49 : client: [34] opened from 127.0.0.1:38396
+May 03 01:49 : client: [34] closed
+May 03 01:53 : player: played "Iwan Fals - Mr.Gele Frustasi.mp3"
+May 03 01:58 : player: played "iwan fals- Kemesraan.mp3"
+May 03 01:58 : client: [35] opened from 127.0.0.1:38772
+May 03 01:58 : client: [35] closed
+May 03 02:01 : client: [0] closed
+May 03 02:01 : player: played "iwan fals- Yang Terlupakan.mp3"
+May 03 13:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 03 13:41 : config: option 'mixer_control' on line 287 was not recognized
+May 03 13:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 03 13:41 : client: [0] opened from 127.0.0.1:57262
+May 03 13:42 : client: [1] opened from 127.0.0.1:57264
+May 03 13:42 : client: [2] opened from 127.0.0.1:57266
+May 03 13:42 : client: [2] closed
+May 03 13:42 : client: [3] opened from 127.0.0.1:57268
+May 03 13:42 : client: [3] closed
+May 03 13:47 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 03 13:47 : client: [4] opened from 127.0.0.1:57280
+May 03 13:47 : client: [4] closed
+May 03 13:52 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 03 13:52 : client: [5] opened from 127.0.0.1:57498
+May 03 13:52 : client: [5] closed
+May 03 13:57 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 03 13:57 : client: [6] opened from 127.0.0.1:57502
+May 03 13:57 : client: [6] closed
+May 03 13:58 : client: [1] closed
+May 03 13:58 : player: played "Someone Like You - Adele.mp4"
+May 03 19:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 03 19:53 : config: option 'mixer_control' on line 287 was not recognized
+May 03 19:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 03 19:53 : client: [0] opened from 127.0.0.1:40098
+May 03 19:53 : client: [1] opened from 127.0.0.1:40100
+May 03 19:53 : client: [1] closed
+May 03 19:53 : client: [2] opened from 127.0.0.1:40102
+May 03 19:53 : client: [2] closed
+May 03 19:54 : client: [3] opened from 127.0.0.1:40124
+May 03 19:59 : player: played "Mitha Talahatu - Beta Sandiri.mp4"
+May 03 19:59 : client: [4] opened from 127.0.0.1:40506
+May 03 19:59 : client: [4] closed
+May 03 20:04 : player: played "MONA LATUMAHINA - PALENG BAE.mp4"
+May 03 20:04 : client: [5] opened from 127.0.0.1:40780
+May 03 20:04 : client: [5] closed
+May 03 20:08 : player: played "Nada Latuharhary - Jujur Saja.mp4"
+May 03 20:08 : client: [6] opened from 127.0.0.1:41338
+May 03 20:08 : client: [6] closed
+May 03 20:14 : player: played "Someone Like You - Adele.mp4"
+May 03 20:14 : client: [7] opened from 127.0.0.1:41748
+May 03 20:14 : client: [7] closed
+May 03 20:18 : player: played "Wish You Were Here - Avril Lavigne.mp4"
+May 03 20:18 : client: [8] opened from 127.0.0.1:41960
+May 03 20:18 : client: [8] closed
+May 03 20:20 : client: [0] closed
+May 03 20:20 : player: played "You're Still The One - Shania Twain.mp4"
+May 04 02:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 04 02:40 : config: option 'mixer_control' on line 287 was not recognized
+May 04 02:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 04 02:40 : client: [0] opened from 127.0.0.1:51670
+May 04 02:40 : client: [1] opened from 127.0.0.1:51672
+May 04 02:40 : client: [2] opened from 127.0.0.1:51674
+May 04 02:40 : client: [2] closed
+May 04 02:40 : update: added /20 Lagu POP ROCK Barat Yang Paling Enak Didengar.mp4
+May 04 02:40 : update: added /BEST LAGU BARAT 2018 English Remix Lagu POP ROCK Barat Yang Paling Enak Didengar.mp4
+May 04 02:40 : update: added /DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4
+May 04 02:40 : client: [3] opened from 127.0.0.1:51678
+May 04 02:40 : client: [3] closed
+May 04 02:41 : client: [4] opened from 127.0.0.1:51680
+May 04 02:41 : client: [4] closed
+May 04 02:41 : client: [5] opened from 127.0.0.1:51682
+May 04 02:41 : client: [5] closed
+May 04 02:41 : client: [6] opened from 127.0.0.1:51684
+May 04 02:41 : client: [6] closed
+May 04 02:42 : client: [7] opened from 127.0.0.1:51686
+May 04 02:42 : client: [7] closed
+May 04 02:42 : client: [8] opened from 127.0.0.1:51688
+May 04 02:42 : client: [8] closed
+May 04 02:42 : client: [9] opened from 127.0.0.1:51690
+May 04 02:42 : client: [9] closed
+May 04 02:43 : client: [10] opened from 127.0.0.1:51692
+May 04 02:43 : client: [10] closed
+May 04 02:55 : client: [11] opened from 127.0.0.1:52178
+May 04 02:55 : client: [11] closed
+May 04 02:56 : client: [12] opened from 127.0.0.1:52180
+May 04 02:56 : client: [12] closed
+May 04 02:56 : exception: Failed to decode /home/jurig/Music/DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4
+May 04 02:56 : exception: nested: Failed to open /home/jurig/Music/DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4: No such file or directory
+May 04 02:56 : exception: Failed to decode /home/jurig/Music/DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4
+May 04 02:56 : player: played "DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4"
+May 04 02:56 : exception: nested: Failed to open /home/jurig/Music/DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4: No such file or directory
+May 04 02:56 : client: [13] opened from 127.0.0.1:52182
+May 04 02:56 : client: [13] closed
+May 04 02:56 : update: removing DJ DUGEM ENAK JAMAN NOW 2018 ANTI MICIN MICIN CLUB.mp4
+May 04 02:56 : update: added /DJ DUGEM ENAK JAMAN NOW 2018.mp4
+May 04 02:56 : client: [14] opened from 127.0.0.1:52184
+May 04 02:56 : client: [14] closed
+May 04 03:05 : client: [1] closed
+May 04 03:05 : player: played "DJ DUGEM ENAK JAMAN NOW 2018.mp4"
+May 04 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 04 14:52 : config: option 'mixer_control' on line 287 was not recognized
+May 04 14:52 : client: [0] opened from 127.0.0.1:36304
+May 04 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 04 14:52 : client: [1] opened from 127.0.0.1:36306
+May 04 14:52 : client: [2] opened from 127.0.0.1:36308
+May 04 14:52 : client: [2] closed
+May 04 14:52 : client: [3] opened from 127.0.0.1:36324
+May 04 14:52 : client: [3] closed
+May 04 14:52 : client: [1] closed
+May 04 14:53 : client: [4] opened from 127.0.0.1:36334
+May 04 14:53 : client: [5] opened from 127.0.0.1:36336
+May 04 14:53 : client: [5] closed
+May 04 14:59 : client: [6] opened from 127.0.0.1:36354
+May 04 14:59 : client: [6] closed

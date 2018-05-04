@@ -1,0 +1,60 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# If you want to use GNOME config tools...
+#
+#if test -x /usr/libexec/gnome-settings-daemon >/dev/null; then
+#  /usr/libexec/gnome-settings-daemon &
+#elif which gnome-settings-daemon >/dev/null; then
+#  gnome-settings-daemon &
+#fi
+
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+
+# Sets the wallpaper to an image of choice.
+#wallpaper="planet.jpeg"
+
+# Sets the DESKTOP_ENV variable to "OPENBOX"
+DESKTOP_ENV="OPENBOX"
+
+# Waits one second then starts the NetworkManager applet.
+sleep 1 && nm-applet --sm-disable &
+
+# Starts a light-weight X11 desktop panel.
+#fbpanel &
+#~/.config/tint2/tint2-start.sh &
+#tint2 -c ~/.config/tint2/tint2rc1 &
+#tint2 -c ~/.config/tint2/tint2rc2 &
+tint2 &
+#compton &
+
+# Starts Icon menu in desktop
+#idesk &
+
+# Start volume manager after 3 seconds
+(sleep 3s && volumeicon) &
+
+# Starts a lightweight image viewer to display the wallpaper.
+#feh --bg-scale ~/Artwork/${wallpaper} &
+nitrogen --restore &
+
+# Starts a simple battery monitor for the system tray.
+#batti &
+
+# Starts a program that turns on numlock in X (after the X server starts).
+#numlockx &
+
+#Start PolKit automatically
+sleep 1 && /usr/libexec/polkit-gnome-authentication-agent-1 &
+
+# The following are examples on how to call programs;
+# unless programs are called in a daemon mode like the 
+# conky example below an ampersand (&) will need to be included 
+# in order to start the command and fork it to the background
+# See job control for more information.
+~/.start-conky.sh
